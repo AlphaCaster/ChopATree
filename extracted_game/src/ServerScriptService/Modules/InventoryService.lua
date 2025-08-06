@@ -1,0 +1,5 @@
+local InventoryService = {
+	
+}
+
+return InventoryService
