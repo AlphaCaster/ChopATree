@@ -1,0 +1,15 @@
+{
+    "class": "ObjectValue",
+    "referent": "RBX9C7180239CB04D03A08E10F65D2E6622",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "AnimSaves",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "1f33acf1382cd3f508338ff800011d5e",
+        "Value": "RBXA55BA03BFF044993A15A271B6927EBEF"
+    }
+}

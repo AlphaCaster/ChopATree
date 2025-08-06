@@ -1,0 +1,32 @@
+{
+    "class": "Trail",
+    "referent": "RBXE1A5D8F90B8243BBA051E0499341D7AE",
+    "properties": {
+        "Attachment0": "RBX475015A011964CC3825BFD1A4130CFFF",
+        "Attachment1": "RBX5DBD9875F6474D52BA5076177A8EB4D5",
+        "AttributesSerialize": {},
+        "Brightness": "6",
+        "Capabilities": "0",
+        "Color": "0 1 0.243137 0.109804 0 1 1 0.243137 0.109804 0 ",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "FaceCamera": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "0.100000001",
+        "LightEmission": "0.600000024",
+        "LightInfluence": "0",
+        "MaxLength": "0",
+        "MinLength": "0",
+        "Name": "Trail",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://0"
+        },
+        "TextureLength": "1",
+        "TextureMode": "0",
+        "Transparency": "0 0 0 1 0 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000f169",
+        "WidthScale": "0 0 0 0.3 0.25 0 1 0 0 "
+    }
+}

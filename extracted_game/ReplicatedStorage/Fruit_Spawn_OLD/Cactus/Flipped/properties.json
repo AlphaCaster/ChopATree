@@ -1,0 +1,15 @@
+{
+    "class": "BoolValue",
+    "referent": "RBXC84D802CD65B4D4195DB7014E5C19982",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Flipped",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ebdc",
+        "Value": "false"
+    }
+}

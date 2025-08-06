@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX6479F79A6D4141C5ADDE18D0856DD7D9",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "true",
+        "Name": "SprinklerLoop",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "50",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "3",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://372770465"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f123",
+        "Volume": "0.400000006"
+    }
+}

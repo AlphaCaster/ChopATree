@@ -1,0 +1,17 @@
+{
+    "class": "Animation",
+    "referent": "RBX4FD0D95D287E4313B6F38A1F3233D19D",
+    "properties": {
+        "AnimationId": {
+            "url": "http://www.roblox.com/asset/?id=178130996"
+        },
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "SitAnim",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "24e0a64387d9a9220836390200005f70"
+    }
+}

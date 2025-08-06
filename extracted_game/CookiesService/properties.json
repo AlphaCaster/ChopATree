@@ -1,0 +1,14 @@
+{
+    "class": "CookiesService",
+    "referent": "RBXB460F814775845AFA3B88ED3F5DDBE41",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "CookiesService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec0000035a"
+    }
+}

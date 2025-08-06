@@ -1,0 +1,45 @@
+{
+    "class": "Weld",
+    "referent": "RBX834F3A7CA5A147BFA62175708159F4A5",
+    "properties": {
+        "AttributesSerialize": {},
+        "C0": {
+            "X": "0",
+            "Y": "-1.09999931",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "C1": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Root",
+        "Part0": "RBX4FAB19F5340449C4A1D5139AFBAF791D",
+        "Part1": "RBXB016A882B4C542FFB26A3C00CE0C3EEB",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "4113b0548e65edf00837330c0000a4eb"
+    }
+}

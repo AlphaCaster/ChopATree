@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX078015E99C4A4F068C700794F07D50D3",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "HttpApi",
+        "ScriptGuid": "{67035780-FDC6-4358-9E87-3A73BA6A14F6}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&�Z\u001cjYQ�t����{H\u001a�឵'��'\u001eF��z��q�hq�oַ��*ޱ���ڭ��U�bu�b�yhq�oڷ��*ޱ���ڭ��U�슉�ƥ�zު�z�+��Gj�K��hq�o�趇(�\u001bm��h��Z�橊\u0006�y�ڗ+br�(����*'�jޚ�^\n�ߊ\u000b\u0015z�\"�{��x���b��+����)��ޞ�\u0014�Sڶ\u0017�z{l\u0010`\u0007M3��$^��'��hE�)�{\u001e�\u0016�E�)�{\u001e�\u0017���-N)���",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e051"
+    }
+}

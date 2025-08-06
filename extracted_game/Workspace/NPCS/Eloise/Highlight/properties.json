@@ -1,0 +1,29 @@
+{
+    "class": "Highlight",
+    "referent": "RBX85BF37ABF4F74CF4AB0877BDDD0C26FB",
+    "properties": {
+        "Adornee": "RBX5CE5350E1FAE416F974EB45B5EA86CB0",
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "DepthMode": "1",
+        "Enabled": "false",
+        "FillColor": {
+            "R": "1",
+            "G": "0",
+            "B": "0"
+        },
+        "FillTransparency": "1",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Highlight",
+        "OutlineColor": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "OutlineTransparency": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "24e0a64387d9a9220836390200005fb9"
+    }
+}

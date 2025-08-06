@@ -1,0 +1,29 @@
+{
+    "class": "Accessory",
+    "referent": "RBX656BC78FB4064E989C707AED62B15482",
+    "properties": {
+        "AccessoryType": "2",
+        "AttachmentPoint": {
+            "X": "0",
+            "Y": "0.899999976",
+            "Z": "0",
+            "R00": "1",
+            "R01": "-0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "0.99503839",
+            "R12": "0.0994919688",
+            "R20": "-0",
+            "R21": "-0.0994919688",
+            "R22": "0.99503839"
+        },
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "LongHairHeadBand",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "24e0a64387d9a9220836390200005f84"
+    }
+}

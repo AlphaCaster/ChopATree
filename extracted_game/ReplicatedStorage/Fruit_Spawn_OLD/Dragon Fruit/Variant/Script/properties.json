@@ -1,0 +1,21 @@
+{
+    "class": "Script",
+    "referent": "RBXEA50ED0A0FF64D9CAB7706C9ECE7F660",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Script",
+        "RunContext": "0",
+        "ScriptGuid": "{08AA05DC-A4FD-4289-92FE-5DD2A85E50B8}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\n-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ebd1"
+    }
+}

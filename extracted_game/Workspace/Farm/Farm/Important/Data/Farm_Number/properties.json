@@ -1,0 +1,15 @@
+{
+    "class": "NumberValue",
+    "referent": "RBX403BF40952D14074ACEF1E98B9883827",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Farm_Number",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400003e76",
+        "Value": "2"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX1DEAD3CF004645859A36652E2FC6114C",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "UI_REPARENT",
+        "RunContext": "0",
+        "ScriptGuid": "{204D8168-2F3C-4748-BE68-7367DCA5F238}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&�Z\u001cjYG�f��'Q��Oj�t����ڭ��Y��\u0016�)]\u001e隞��F�-=�햇\u001a��",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7b0"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "class": "TextLabel",
+    "referent": "RBXCC97912CA90E4CA7B913F25EFAAA70EE",
+    "properties": {
+        "Active": "false",
+        "AnchorPoint": {
+            "X": "0.5",
+            "Y": "0.5"
+        },
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "BackgroundTransparency": "1",
+        "BorderColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "0",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "FontFace": {
+            "Family": {
+                "url": "rbxasset://fonts/families/ComicNeueAngular.json"
+            },
+            "Weight": "400",
+            "Style": "Italic"
+        },
+        "HistoryId": "451126a27e5c9c2c081e923400016adc",
+        "Interactable": "true",
+        "LayoutOrder": "0",
+        "LineHeight": "1",
+        "LocalizationMatchIdentifier": {},
+        "LocalizationMatchedSourceText": {},
+        "MaxVisibleGraphemes": "-1",
+        "Name": "desccccc",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "OpenTypeFeatures": {},
+        "Position": {
+            "XS": "0.24319081",
+            "XO": "0",
+            "YS": "0.420805722",
+            "YO": "0"
+        },
+        "RichText": "true",
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "Selectable": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "0.446229547",
+            "XO": "0",
+            "YS": "0.426610976",
+            "YO": "0"
+        },
+        "SizeConstraint": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Text": "DIVINE rarity or better guaranteed!",
+        "TextColor3": {
+            "R": "1",
+            "G": "0.349019617",
+            "B": "0.0470588282"
+        },
+        "TextDirection": "0",
+        "TextScaled": "true",
+        "TextSize": "14",
+        "TextStrokeColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "TextStrokeTransparency": "0",
+        "TextTransparency": "0",
+        "TextTruncate": "0",
+        "TextWrapped": "true",
+        "TextXAlignment": "0",
+        "TextYAlignment": "1",
+        "UniqueId": "3de605083031ea1c0837847800006c4d",
+        "Visible": "true",
+        "ZIndex": "15"
+    }
+}

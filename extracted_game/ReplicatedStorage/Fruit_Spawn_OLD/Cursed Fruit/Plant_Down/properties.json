@@ -1,0 +1,15 @@
+{
+    "class": "NumberValue",
+    "referent": "RBXF3453BDC836F42D3BB1AA8BC558370C5",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Plant_Down",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ec9a",
+        "Value": "0.25"
+    }
+}

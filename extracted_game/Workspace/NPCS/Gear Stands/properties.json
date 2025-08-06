@@ -1,0 +1,42 @@
+{
+    "class": "Model",
+    "referent": "RBX04EA3B17ED8741E4A5AF9930187B4C94",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Gear Stands",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "null",
+        "ScaleFactor": "0.805196881",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "24e0a64387d9a9220836390200005f3b",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t"
+        }
+    }
+}

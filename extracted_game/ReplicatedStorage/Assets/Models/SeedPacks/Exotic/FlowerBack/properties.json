@@ -1,0 +1,143 @@
+{
+    "class": "MeshPart",
+    "referent": "RBXB7F96F9D90234144A6756E6FAA871442",
+    "properties": {
+        "AeroMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "Anchored": "false",
+        "AttributesSerialize": {},
+        "AudioCanCollide": "true",
+        "BackParamA": "-0.5",
+        "BackParamB": "0.5",
+        "BackSurface": "0",
+        "BackSurfaceInput": "0",
+        "BottomParamA": "-0.5",
+        "BottomParamB": "0.5",
+        "BottomSurface": "0",
+        "BottomSurfaceInput": "0",
+        "CFrame": {
+            "X": "-0.476203918",
+            "Y": "0.899999976",
+            "Z": "-43.5177536",
+            "R00": "0",
+            "R01": "0",
+            "R02": "1",
+            "R10": "1",
+            "R11": "0",
+            "R12": "0",
+            "R20": "0",
+            "R21": "1",
+            "R22": "0"
+        },
+        "CanCollide": "false",
+        "CanQuery": "false",
+        "CanTouch": "false",
+        "Capabilities": "0",
+        "CastShadow": "true",
+        "CollisionGroup": "Default",
+        "CollisionGroupId": "0",
+        "Color3uint8": "4294506744",
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "DoubleSided": "false",
+        "EnableFluidForces": "true",
+        "FluidFidelityInternal": "0",
+        "FrontParamA": "-0.5",
+        "FrontParamB": "0.5",
+        "FrontSurface": "0",
+        "FrontSurfaceInput": "0",
+        "HasJointOffset": "false",
+        "HasSkinnedMesh": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "InertiaMigrated": "false",
+        "InitialSize": {
+            "X": "3.22481203",
+            "Y": "0.131979018",
+            "Z": "3.2248106"
+        },
+        "JointOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "LeftParamA": "-0.5",
+        "LeftParamB": "0.5",
+        "LeftSurface": "0",
+        "LeftSurfaceInput": "0",
+        "Locked": "false",
+        "Massless": "true",
+        "Material": "256",
+        "MaterialVariantSerialized": {},
+        "MeshId": {
+            "url": "rbxassetid://127497192395837"
+        },
+        "Name": "FlowerBack",
+        "PhysicalConfigData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "PhysicsData": {},
+        "PivotOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Reflectance": "0",
+        "RenderFidelity": "0",
+        "RightParamA": "-0.5",
+        "RightParamB": "0.5",
+        "RightSurface": "0",
+        "RightSurfaceInput": "0",
+        "RootPriority": "0",
+        "RotVelocity": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TextureID": {
+            "null": {}
+        },
+        "TopParamA": "-0.5",
+        "TopParamB": "0.5",
+        "TopSurface": "0",
+        "TopSurfaceInput": "0",
+        "Transparency": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000e89d",
+        "UnscaledCofm": {
+            "X": "0.00122381153",
+            "Y": "-0.0160904005",
+            "Z": "-0.00122346054"
+        },
+        "UnscaledVolInertiaDiags": {
+            "X": "0.0300352629",
+            "Y": "0.0599350743",
+            "Z": "0.0300352797"
+        },
+        "UnscaledVolInertiaOffDiags": {
+            "X": "1.77237889e-05",
+            "Y": "0.000632562384",
+            "Z": "-1.77239053e-05"
+        },
+        "UnscaledVolume": "0.124098629",
+        "Velocity": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "VertexCount": "32",
+        "size": {
+            "X": "0.613461554",
+            "Y": "0.0535061769",
+            "Z": "0.613461256"
+        }
+    }
+}

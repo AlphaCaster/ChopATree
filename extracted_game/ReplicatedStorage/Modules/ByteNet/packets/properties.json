@@ -1,0 +1,14 @@
+{
+    "class": "Folder",
+    "referent": "RBX2993D5C663DE45BFB7D4A64D6EE2EE9E",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "packets",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f00014bc4"
+    }
+}

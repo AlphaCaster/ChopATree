@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX63E714FEA1B84222A5E76DB0B2334FEB",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "AttributesSerialize": "AQAAAAkAAABFbWl0Q291bnQGAAAAAAAALkA=",
+        "Brightness": "15",
+        "Capabilities": "0",
+        "Color": "0 0 0.784314 1 0 1 0 0.298039 1 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "1",
+        "EmissionDirection": "1",
+        "Enabled": "true",
+        "FlipbookFramerate": "1 1 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "0",
+        "FlipbookMode": "1",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 2 ",
+        "LightEmission": "1",
+        "LightInfluence": "0",
+        "LockedToPart": "false",
+        "Name": "Ground",
+        "Orientation": "3",
+        "Rate": "4",
+        "RotSpeed": "0 15 ",
+        "Rotation": "-360 360 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 0 3 0.1 2.40072 3 0.2 4.6688 3 0.3 6.78872 3 0.4 8.74136 3 0.5 10.5027 3 0.6 12.042 3 0.7 13.3187 3 0.8 14.2787 3 0.9 14.8523 3 1 15 3 1 15 3 ",
+        "SourceAssetId": "-1",
+        "Speed": "0.001 0.001 ",
+        "SpreadAngle": {
+            "X": "0",
+            "Y": "0"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://79931622531061"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 0.6 0 0.1 0.664019 0 0.2 0.724501 0 0.3 0.781033 0 0.4 0.833103 0 0.5 0.880073 0 0.6 0.92112 0 0.7 0.955166 0 0.8 0.980767 0 0.9 0.996062 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000f130",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "2"
+    }
+}

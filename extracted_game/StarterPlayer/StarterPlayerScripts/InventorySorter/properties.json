@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX407A65BDA8474DF98960B4D97117A948",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "InventorySorter",
+        "RunContext": "0",
+        "ScriptGuid": "{1C7EEDBD-3D1F-4EA3-9087-C082E5943C7F}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&�Z\u001cjYO����k��\u0006�xg�I��Ǐ������q�O����f��Z+\n\u0018�t�Z��ƺ)hq�eJ��\u0005�$��$\u0012���H\u001a�឵'��'\u001eE�e�ƭyԭ���xf�xKޞ�\u0016j+E����WR��Ai�)i�\u0004��햇\u001a�R'��������Z��ƺ-\u0016j+E����WAi�)i�\u0006�%���h�(b��ZrJZrE���h�(b��'�������ƥ�7��\u001b����\"{-jw\u001e��\u0013{\u001bA��h�T���n��'�֦y*+�\u001b����M�m\u0006�m�}\u0013{\u001b",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f801"
+    }
+}

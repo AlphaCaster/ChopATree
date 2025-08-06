@@ -1,0 +1,14 @@
+{
+    "class": "Folder",
+    "referent": "RBX38E65B701A55425BB139AECD169B24EC",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Blink",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "571972e636150771083505dc0000d979"
+    }
+}

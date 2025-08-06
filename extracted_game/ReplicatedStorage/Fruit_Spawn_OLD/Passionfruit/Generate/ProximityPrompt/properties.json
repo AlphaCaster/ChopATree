@@ -1,0 +1,31 @@
+{
+    "class": "ProximityPrompt",
+    "referent": "RBXAD44279491364B81AB8BE2EE19A69583",
+    "properties": {
+        "ActionText": "Collect",
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClickablePrompt": "true",
+        "DefinesCapabilities": "false",
+        "Enabled": "false",
+        "Exclusivity": "0",
+        "GamepadKeyCode": "1000",
+        "HistoryId": "00000000000000000000000000000000",
+        "HoldDuration": "0",
+        "KeyboardKeyCode": "101",
+        "MaxActivationDistance": "10",
+        "Name": "ProximityPrompt",
+        "ObjectText": {},
+        "RequiresLineOfSight": "false",
+        "RootLocalizationTable": "null",
+        "SourceAssetId": "-1",
+        "Style": "1",
+        "Tags": "Q29sbGVjdFByb21wdA==",
+        "UIOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000ec6e"
+    }
+}

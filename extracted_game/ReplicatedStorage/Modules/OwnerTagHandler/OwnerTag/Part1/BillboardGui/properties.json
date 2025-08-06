@@ -1,0 +1,65 @@
+{
+    "class": "BillboardGui",
+    "referent": "RBX5D27ED6717424675AF912C89D6FE39EF",
+    "properties": {
+        "Active": "true",
+        "Adornee": "null",
+        "AlwaysOnTop": "true",
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "Brightness": "1",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "DistanceLowerLimit": "0",
+        "DistanceStep": "0",
+        "DistanceUpperLimit": "-1",
+        "Enabled": "true",
+        "ExtentsOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ExtentsOffsetWorldSpace": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "LightInfluence": "0",
+        "MaxDistance": "INF",
+        "Name": "BillboardGui",
+        "PlayerToHideFrom": "null",
+        "ResetOnSpawn": "true",
+        "RootLocalizationTable": "null",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "Size": {
+            "XS": "30",
+            "XO": "0",
+            "YS": "30",
+            "YO": "0"
+        },
+        "SizeOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "SourceAssetId": "-1",
+        "StudsOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "StudsOffsetWorldSpace": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f0000e796",
+        "ZIndexBehavior": "1"
+    }
+}

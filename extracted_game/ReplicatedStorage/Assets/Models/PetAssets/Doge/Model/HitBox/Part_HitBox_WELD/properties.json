@@ -1,0 +1,45 @@
+{
+    "class": "Weld",
+    "referent": "RBXB1A9EE77F4944ED8A0BCE138630DC91E",
+    "properties": {
+        "AttributesSerialize": "AgAAAAkAAABEZWZhdWx0QzAUAAAAAAAAAAAAAAAAAAAAAAB5G0Q/t40kvwAAgD8AAAAAAAAA\nAAAAAAC3jSS/eRtEvwkAAABEZWZhdWx0QzEU91m5PwDqhT9gRyO/Bw==",
+        "C0": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "-1.13248825e-05",
+            "R01": "0.766070843",
+            "R02": "-0.642756104",
+            "R10": "1",
+            "R11": "1.13844872e-05",
+            "R12": "-4.14252281e-06",
+            "R20": "4.14252281e-06",
+            "R21": "-0.642756104",
+            "R22": "-0.766070843"
+        },
+        "C1": {
+            "X": "1.44805801",
+            "Y": "1.04620361",
+            "Z": "-0.637807846",
+            "R00": "0",
+            "R01": "1",
+            "R02": "0",
+            "R10": "1",
+            "R11": "0",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "-1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Part_HitBox_WELD",
+        "Part0": "RBX37D39FD92E5040578CBBB7A8A377F502",
+        "Part1": "RBX5327FE1A3F1E4AEF88556C553D8738BC",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e90f"
+    }
+}

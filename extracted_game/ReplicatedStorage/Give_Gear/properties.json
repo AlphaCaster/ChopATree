@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBXFCAF97D6E7B34182A26B34942278079B",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Give_Gear",
+        "ScriptGuid": "{75A33CDD-6766-4032-B0DE-46388EFEF918}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&�Z\u001cjYRz�ޭ+h��\u001e�\u0006�xg�I��ǒz�ޭ+h��\u001e��\u001a�T^�X�jםJ�+j\u0007����\u0019�Rz��q�^�X�jםJ�+j\u0007��ƥ�'����r���'��'\u001e�\u0006�xg�I��ǒz�ޭ'+��Rz��q�hq�e>V�z�4���\u0019�Rz��q��k'��Z\u001cjX\u001a�឵'��'\u001e\u001e�iI��ǥ�ƥ�'���Ҷ�ځ�\u0016j+E����WRj��nW���l��\u001a�T����J�+j\u0007�Y��\u0016�)]\u0019櫲Z\u001cjYNn7���\u001dz[4�\u0017��'\u001a��R��ځ�\u0016j+E����WNn7���\u001dz[%�ƥ�ꮊ��E�e�ƭyԭ���{@ڵ���曕��[\u0003j֥�ƥ�ꮊ��E�e�ƭyԭ���{C(v�^�+k�x\u0014�)l��\u001a��t�ꮊ��I��z���*mI��Ǵ2�n��\b������I��ǥ�ƥ�]",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e045"
+    }
+}

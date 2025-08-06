@@ -1,0 +1,42 @@
+{
+    "class": "Decal",
+    "referent": "RBX494FE08901664C8CAA32F96708BAE857",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "DefinesCapabilities": "false",
+        "Face": "5",
+        "HistoryId": "00000000000000000000000000000000",
+        "MetalnessMap": {
+            "null": {}
+        },
+        "Name": "top g nextbot (not memorial)",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "12268429152",
+        "Tags": {},
+        "Texture": {
+            "url": "http://www.roblox.com/asset/?id=12268429121"
+        },
+        "Transparency": "0",
+        "UVOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "UVScale": {
+            "X": "1",
+            "Y": "1"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000f16e",
+        "ZIndex": "1"
+    }
+}

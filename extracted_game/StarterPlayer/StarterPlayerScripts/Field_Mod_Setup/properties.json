@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX9E071FFCE28443B7A1645657A29BFC1A",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Field_Mod_Setup",
+        "RunContext": "0",
+        "ScriptGuid": "{ADA5AC0F-776A-4055-8323-9254B3F7210A}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nrequire(game.ReplicatedStorage.Field_Of_View_Module).Setup();",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7dd"
+    }
+}

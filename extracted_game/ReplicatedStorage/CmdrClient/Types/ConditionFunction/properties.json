@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX39764E5569EE41CF85229E0C1BF01353",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "ConditionFunction",
+        "ScriptGuid": "{B5CF1BFC-84B1-4A27-98F9-F124E8202781}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nreturn function(v0) --[[ Line: 1 ]]\n    v0:RegisterType(\"conditionFunction\", v0.Cmdr.Util.MakeEnumType(\"ConditionFunction\", {\n        \"startsWith\"\n    }));\nend;",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e07b"
+    }
+}

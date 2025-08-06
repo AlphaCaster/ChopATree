@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBX3269FD30E20A415E8C115359B37DBF6E",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "DataStream",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e13e"
+    }
+}

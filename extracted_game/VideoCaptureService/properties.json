@@ -1,0 +1,14 @@
+{
+    "class": "VideoCaptureService",
+    "referent": "RBX65F9B02ED3C64437AE3DC30C2C65E2BB",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "VideoCaptureService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec0000032f"
+    }
+}

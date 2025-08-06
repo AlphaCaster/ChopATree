@@ -1,0 +1,15 @@
+{
+    "class": "UIScale",
+    "referent": "RBX2C3730F919E5444385252766F2FA05EB",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "UIScale",
+        "Scale": "1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e804"
+    }
+}

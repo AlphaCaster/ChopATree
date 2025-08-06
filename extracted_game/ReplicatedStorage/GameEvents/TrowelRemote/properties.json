@@ -1,0 +1,14 @@
+{
+    "class": "RemoteFunction",
+    "referent": "RBXBD5215052B8045568C2D195F7493A902",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "TrowelRemote",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e15d"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX673A8B7CC0914315BF3B2E1236C4F32E",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "AttributesSerialize": "AQAAAAkAAABFbWl0Q291bnQGAAAAAAAALkA=",
+        "Brightness": "2.5",
+        "Capabilities": "0",
+        "Color": "0 1 0.92549 0.619608 0 1 1 0.415686 0.239216 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "1",
+        "EmissionDirection": "1",
+        "Enabled": "true",
+        "FlipbookFramerate": "1 1 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "0",
+        "FlipbookMode": "1",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 2 ",
+        "LightEmission": "0.349999994",
+        "LightInfluence": "0",
+        "LockedToPart": "false",
+        "Name": "Ground",
+        "Orientation": "3",
+        "Rate": "5",
+        "RotSpeed": "0 15 ",
+        "Rotation": "-360 360 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 0 4 0.1 3.04091 4 0.2 5.91382 4 0.3 8.59905 4 0.4 11.0724 4 0.5 13.3034 4 0.6 15.2532 4 0.7 16.8704 4 0.8 18.0864 4 0.9 18.8129 4 1 19 4 1 19 4 ",
+        "SourceAssetId": "-1",
+        "Speed": "0.001 0.001 ",
+        "SpreadAngle": {
+            "X": "0",
+            "Y": "0"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://79931622531061"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 0.4 0 0.1 0.496029 0 0.2 0.586752 0 0.3 0.671549 0 0.4 0.749654 0 0.5 0.820109 0 0.6 0.88168 0 0.7 0.93275 0 0.8 0.97115 0 0.9 0.994093 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000f12b",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "2"
+    }
+}

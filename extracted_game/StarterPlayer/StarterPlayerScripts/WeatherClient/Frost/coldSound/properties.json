@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBXF8B319DBECE943569C7CC99881091AF7",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "true",
+        "Name": "coldSound",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://8493073620"
+        },
+        "SourceAssetId": "8493073620",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f7f3",
+        "Volume": "0"
+    }
+}

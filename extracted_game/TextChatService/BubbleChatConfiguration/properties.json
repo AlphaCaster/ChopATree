@@ -1,0 +1,51 @@
+{
+    "class": "BubbleChatConfiguration",
+    "referent": "RBX4944E19523024EDA8BAA987DB3326200",
+    "properties": {
+        "AdorneeName": "HumanoidRootPart",
+        "AttributesSerialize": {},
+        "BackgroundColor3": {
+            "R": "0.980392158",
+            "G": "0.980392158",
+            "B": "0.980392158"
+        },
+        "BackgroundTransparency": "0.10000000000000000555",
+        "BubbleDuration": "15",
+        "BubblesSpacing": "6",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Font": "47",
+        "FontFace": {
+            "Family": {
+                "url": "rbxasset://fonts/families/BuilderSans.json"
+            },
+            "Weight": "500",
+            "Style": "Normal",
+            "CachedFaceId": {
+                "url": "rbxasset://fonts/BuilderSans-Medium.otf"
+            }
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "LocalPlayerStudsOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "MaxBubbles": "3",
+        "MaxDistance": "100",
+        "MinimizeDistance": "40",
+        "Name": "BubbleChatConfiguration",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TailVisible": "true",
+        "TextColor3": {
+            "R": "0.223529413",
+            "G": "0.23137255",
+            "B": "0.239215687"
+        },
+        "TextSize": "20",
+        "UniqueId": "451126a27e5c9c2c081e92340000f869",
+        "VerticalStudsOffset": "0"
+    }
+}

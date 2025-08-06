@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX9D4C5812F6B74006B6B7A5BE3046286C",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "PlantTrowel",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://118626236197711"
+        },
+        "SourceAssetId": "82357128779870",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f7d8",
+        "Volume": "0.5"
+    }
+}

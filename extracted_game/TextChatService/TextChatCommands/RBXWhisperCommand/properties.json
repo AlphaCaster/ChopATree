@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBX63DA2235C7A847C4A311080D3D5109F5",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RBXWhisperCommand",
+        "PrimaryAlias": "/whisper",
+        "SecondaryAlias": "/w",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f888"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "class": "Animation",
+    "referent": "RBX5EDA02838ADA4317A616E6C9685301C8",
+    "properties": {
+        "AnimationId": {
+            "url": "http://www.roblox.com/asset/?id=180426354"
+        },
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RunAnim",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "24e0a64387d9a9220836390200005f66"
+    }
+}

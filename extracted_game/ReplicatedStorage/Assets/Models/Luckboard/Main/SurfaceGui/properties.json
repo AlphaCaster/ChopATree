@@ -1,0 +1,40 @@
+{
+    "class": "SurfaceGui",
+    "referent": "RBX1DB56154826E47B5B81B0D777D76500E",
+    "properties": {
+        "Active": "true",
+        "Adornee": "null",
+        "AlwaysOnTop": "false",
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "Brightness": "1",
+        "CanvasSize": {
+            "X": "800",
+            "Y": "600"
+        },
+        "Capabilities": "0",
+        "ClipsDescendants": "true",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Face": "0",
+        "HistoryId": "00000000000000000000000000000000",
+        "LightInfluence": "0",
+        "MaxDistance": "1000",
+        "Name": "SurfaceGui",
+        "PixelsPerStud": "66.6666641",
+        "ResetOnSpawn": "true",
+        "RootLocalizationTable": "null",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SizingMode": "1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "ToolPunchThroughDistance": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000e855",
+        "ZIndexBehavior": "1",
+        "ZOffset": "0"
+    }
+}

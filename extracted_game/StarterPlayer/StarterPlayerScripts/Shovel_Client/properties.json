@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX66F60C6480C5459283F1F4D821450766",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Shovel_Client",
+        "RunContext": "0",
+        "ScriptGuid": "{B07C2FAF-DCFA-4963-90D2-78E5DB804C04}",
+        "Source": "\u0015��x\u0006jg���ޕ,���jwez�ej{kzj/j\\\"�\u0016���ޖ�(�)ܖ�b�\u0005\b��&��\u001a����Ƭ�)�:���v������Rx�z�\u001a�,�I��\"{-jw\u001e��i��݊�(�� �\fxN\u001a@�l\u0012z��q�%�ƥRǫ\"zn�'��'\u001e���\u0019�Rz��q�,z�'��Rz��q�hq�B�Y^rب�'��'\u001e���\u0019�Rz��qਖW��*'I��ǥ�ƥE�e�ƭyԭ���z\u0006�xg�I��Ǒz�bq�^u+h��\u001e��\u001a�<\u001ezt����z\u0006�xg�I��Ǔ��I��ǥ�ƥF��z��q�\u001a�឵'��'\u001eF��z��q�^}�ޝǬ��\u001a��-���jب����*�E�e�ƭyԭ���x�\u001d�W�6�b~'\u001a�*'��\u001a�\u0017�����鄽��E�e�ƭyԭ���yf��Z+\n\u0018�tf�xKޞ�\u0016j+E����WQzj/x�^�Z\u001cjQ��V���\u001d�W",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7e1"
+    }
+}

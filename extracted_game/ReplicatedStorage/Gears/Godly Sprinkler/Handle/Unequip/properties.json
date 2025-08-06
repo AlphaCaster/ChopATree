@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBXAA42B6A92B8D43E5ABF37EE410548258",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "Unequip",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://9117485865"
+        },
+        "SourceAssetId": "9117485865",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "4113b0548e65edf00837330c0000a54f",
+        "Volume": "0.5"
+    }
+}

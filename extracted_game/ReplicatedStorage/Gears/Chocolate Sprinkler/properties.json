@@ -1,0 +1,64 @@
+{
+    "class": "Tool",
+    "referent": "RBX75402D03B64949C496E4726A4AD8B196",
+    "properties": {
+        "AttributesSerialize": {},
+        "CanBeDropped": "false",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Grip": {
+            "X": "-0",
+            "Y": "0.550000012",
+            "Z": "0.300999999",
+            "R00": "0",
+            "R01": "1",
+            "R02": "0",
+            "R10": "0",
+            "R11": "0",
+            "R12": "1",
+            "R20": "1",
+            "R21": "0",
+            "R22": "0"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ManualActivationOnly": "true",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Chocolate Sprinkler",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "null",
+        "RequiresHandle": "false",
+        "ScaleFactor": "1.10000002",
+        "SourceAssetId": "-1",
+        "Tags": "U3ByaW5rbGVy",
+        "TextureId": {
+            "null": {}
+        },
+        "ToolTip": "Turns plants into chocolate",
+        "UniqueId": "4113b0548e65edf00837330c0000a50e",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "class": "BoolValue",
+    "referent": "RBX4E182993321E4BDA92E54DA6051B2860",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "3de605083031ea1c083784780000700f",
+        "Name": "rotation",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "3de605083031ea1c0837847800007083",
+        "Value": "false"
+    }
+}

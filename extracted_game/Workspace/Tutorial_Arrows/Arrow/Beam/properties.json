@@ -1,0 +1,35 @@
+{
+    "class": "Beam",
+    "referent": "RBX1098136A92364D8D9D749F85F7EFD04D",
+    "properties": {
+        "Attachment0": "RBXC7C39C97B8164536811ABA6DDDAA9962",
+        "Attachment1": "null",
+        "AttributesSerialize": {},
+        "Brightness": "1",
+        "Capabilities": "0",
+        "Color": "0 0 0 0 0 1 0 0 0 0 ",
+        "CurveSize0": "0",
+        "CurveSize1": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "FaceCamera": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "LightEmission": "0",
+        "LightInfluence": "0",
+        "Name": "Beam",
+        "Segments": "10",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Texture": {
+            "url": "http://www.roblox.com/asset/?id=6399401493"
+        },
+        "TextureLength": "2",
+        "TextureMode": "2",
+        "TextureSpeed": "-2",
+        "Transparency": "0 1 0 0.025 0.55 0 0.975 0.55 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000d8b7",
+        "Width0": "2",
+        "Width1": "2",
+        "ZOffset": "0"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX0B90F56D297A48E09DB53E7057B51274",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "Sam",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "0.99000001",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://421058925"
+        },
+        "SourceAssetId": "421058925",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f852",
+        "Volume": "0.5"
+    }
+}

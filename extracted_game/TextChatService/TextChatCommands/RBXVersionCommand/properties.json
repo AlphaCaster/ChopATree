@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBX7E1EF67E44804B239E8C99C51A6F1D48",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RBXVersionCommand",
+        "PrimaryAlias": "/version",
+        "SecondaryAlias": "/v",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f885"
+    }
+}

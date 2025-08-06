@@ -1,0 +1,40 @@
+{
+    "class": "AvatarAccessoryRules",
+    "referent": "RBXCA693CEC4AED41D9820375199B5EFCE0",
+    "properties": {
+        "AccessoryMode": "0",
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "CustomAccessoryMode": "0",
+        "CustomBackAccessoryEnabled": "false",
+        "CustomBackAccessoryId": "0",
+        "CustomFaceAccessoryEnabled": "false",
+        "CustomFaceAccessoryId": "0",
+        "CustomFrontAccessoryEnabled": "false",
+        "CustomFrontAccessoryId": "0",
+        "CustomHairAccessoryEnabled": "false",
+        "CustomHairAccessoryId": "0",
+        "CustomHeadAccessoryEnabled": "false",
+        "CustomHeadAccessoryId": "0",
+        "CustomNeckAccessoryEnabled": "false",
+        "CustomNeckAccessoryId": "0",
+        "CustomShoulderAccessoryEnabled": "false",
+        "CustomShoulderAccessoryId": "0",
+        "CustomWaistAccessoryEnabled": "false",
+        "CustomWaistAccessoryId": "0",
+        "DefinesCapabilities": "false",
+        "EnableSound": "true",
+        "EnableVFX": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "LimitBounds": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "LimitMethod": "1",
+        "Name": "AvatarAccessoryRules",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "1787ea27256b0daf08a4561500000972"
+    }
+}

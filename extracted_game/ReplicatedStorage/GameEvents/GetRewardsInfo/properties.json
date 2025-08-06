@@ -1,0 +1,14 @@
+{
+    "class": "RemoteFunction",
+    "referent": "RBX8F1DEA52B8384B58950AC74373848816",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "GetRewardsInfo",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "2fb1211266d9dc540831e7cb0000706d"
+    }
+}

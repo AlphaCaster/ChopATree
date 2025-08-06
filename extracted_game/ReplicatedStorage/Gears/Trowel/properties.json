@@ -1,0 +1,64 @@
+{
+    "class": "Tool",
+    "referent": "RBXAF6D8893DB874C6B93217D038CE81245",
+    "properties": {
+        "AttributesSerialize": "BQAAAAkAAABJVEVNX1RZUEUCBgAAAFRyb3dlbAkAAABJVEVNX1VVSUQCJgAAAHszMTA0OTRl\nYi04MTkyLTRhZjAtOTQyYy00YWE0MmRmYTdmZTF9CAAAAEl0ZW1UeXBlAgYAAABUcm93ZWwF\nAAAAT1dORVIGAABQLC1o+0EEAAAAVXNlcwYAAAAAAAAUQA==",
+        "CanBeDropped": "false",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Grip": {
+            "X": "0",
+            "Y": "-1.29999995",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ManualActivationOnly": "false",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Trowel",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "null",
+        "RequiresHandle": "true",
+        "ScaleFactor": "1",
+        "SourceAssetId": "47582",
+        "Tags": {},
+        "TextureId": {
+            "null": {}
+        },
+        "ToolTip": "Moves plants",
+        "UniqueId": "744fece71da4047708365b0a00006206",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX1BE136BC583E44ACB2EABA1CFE140B68",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "GetPlayerFromPlant",
+        "ScriptGuid": "{26796569-8D2D-4B8E-906E-F47372ECA959}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&�Z\u001cjZek'��'��'\u001e���\u0019�Rz��q��k'������ߺw-����Z�ǋ�w�5��\u0019�O����Z��Z�۩��nz�O�����\u001c����ƥ�jh�֧�\t�z�h�)쵩�xX�tX���'q�-��&���j{e�ƥu�Z\u0016�]z���jh�֧�\t�z�h��^�)���Z��'q�-��b��b��B�)]\r�Zz[\u001e�)e�ƥ�\tޭV���u�Z\u0016�]z�azwZ��h�׫\u0016)�\u0016*�(b�Ӱ��ޖǧ�X��\tޭV���v�'z�Z��j[��\u0017���n�zek'��'��'\u001e\u0016)�\u0016*�(b��0���j[�U�ny�lz�����W�u��",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f0cd"
+    }
+}

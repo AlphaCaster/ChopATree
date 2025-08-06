@@ -1,0 +1,18 @@
+{
+    "class": "UICorner",
+    "referent": "RBX172594B26434437C97CF460100D53703",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "CornerRadius": {
+            "S": "1",
+            "O": "0"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "UICorner1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d908"
+    }
+}

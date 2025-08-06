@@ -1,0 +1,68 @@
+{
+    "class": "Frame",
+    "referent": "RBXFF79FFEB8E544F9CAD0FD4DB283CD3DB",
+    "properties": {
+        "Active": "false",
+        "AnchorPoint": {
+            "X": "0",
+            "Y": "0"
+        },
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "0.23137255",
+            "G": "0.23137255",
+            "B": "0.23137255"
+        },
+        "BackgroundTransparency": "0.200000003",
+        "BorderColor3": {
+            "R": "0.105882354",
+            "G": "0.164705887",
+            "B": "0.20784314"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "0",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Interactable": "true",
+        "LayoutOrder": "-1",
+        "Name": "Description",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "Position": {
+            "XS": "0",
+            "XO": "0",
+            "YS": "0",
+            "YO": "0"
+        },
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "Selectable": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "1",
+            "XO": "0",
+            "YS": "0",
+            "YO": "20"
+        },
+        "SizeConstraint": "0",
+        "SourceAssetId": "-1",
+        "Style": "0",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7a0",
+        "Visible": "true",
+        "ZIndex": "1"
+    }
+}

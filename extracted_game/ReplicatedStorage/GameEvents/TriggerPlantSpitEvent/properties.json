@@ -1,0 +1,14 @@
+{
+    "class": "BindableFunction",
+    "referent": "RBX50804073768A4C54A116A81C0DBD1AA9",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "TriggerPlantSpitEvent",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e170"
+    }
+}

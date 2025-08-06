@@ -1,0 +1,21 @@
+{
+    "class": "Script",
+    "referent": "RBX7CB2347C45604CA3BA57035510D56E54",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "BananaGenerate",
+        "RunContext": "0",
+        "ScriptGuid": "{25584AE5-E7E4-480D-9977-1121AB68D847}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\n-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ec80"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX7D5356776D37400FB83CC0D6771DBF8E",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Trowel_Client_Old",
+        "RunContext": "0",
+        "ScriptGuid": "{1E019E0D-6245-4793-8245-E60E84FED717}",
+        "Source": "��\u001a��Z���I���",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7d7"
+    }
+}

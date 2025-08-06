@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBX369BAF87CDF64C9CB849C98051ABC179",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Notification",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e14b"
+    }
+}

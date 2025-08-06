@@ -1,0 +1,14 @@
+{
+    "class": "TextChannel",
+    "referent": "RBX64616DA0B9484BA48AC8D344CCE12914",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RBXGeneral",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f87f"
+    }
+}

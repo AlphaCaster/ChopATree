@@ -1,0 +1,36 @@
+{
+    "class": "SpecialMesh",
+    "referent": "RBX6A44A87399A5454BB4FBC8AA3A3ECE95",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MeshId": {
+            "url": "rbxassetid://15382601233"
+        },
+        "MeshType": "5",
+        "Name": "Mesh",
+        "Offset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "Scale": {
+            "X": "1.12383795",
+            "Y": "1.15804744",
+            "Z": "1.13769591"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TextureId": {
+            "url": "rbxassetid://15382601146"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000d7ea",
+        "VertexColor": {
+            "X": "1",
+            "Y": "1",
+            "Z": "1"
+        }
+    }
+}

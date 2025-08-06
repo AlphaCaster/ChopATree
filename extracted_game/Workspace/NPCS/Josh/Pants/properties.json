@@ -1,0 +1,22 @@
+{
+    "class": "Pants",
+    "referent": "RBX3829939A9CD04D1EA1BDEFF6FCE851DA",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Pants",
+        "PantsTemplate": {
+            "url": "http://www.roblox.com/asset/?id=3767402973"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d7e3"
+    }
+}

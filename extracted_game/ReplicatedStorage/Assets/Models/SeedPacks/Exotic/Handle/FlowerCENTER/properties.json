@@ -1,0 +1,45 @@
+{
+    "class": "Weld",
+    "referent": "RBX232A00E01E004DF28E846B778C6A5BAE",
+    "properties": {
+        "AttributesSerialize": {},
+        "C0": {
+            "X": "-0.235799789",
+            "Y": "1.1920929e-07",
+            "Z": "0",
+            "R00": "-1.1920929e-07",
+            "R01": "-1.00000012",
+            "R02": "0",
+            "R10": "1.00000012",
+            "R11": "-1.1920929e-07",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "C1": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "FlowerCENTER",
+        "Part0": "RBX29EA9FD600F64D0CB32DF729E1AA1EB2",
+        "Part1": "RBX7E08AF51D1794138B34CC0AB63851C41",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e88a"
+    }
+}

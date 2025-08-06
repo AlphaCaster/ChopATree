@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBX07FEB40F85784DE3B8C027D477D14F1D",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "readfirstlaw",
+        "PrimaryAlias": "/readfirstlaw",
+        "SecondaryAlias": "/readfirstlaw",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f871"
+    }
+}

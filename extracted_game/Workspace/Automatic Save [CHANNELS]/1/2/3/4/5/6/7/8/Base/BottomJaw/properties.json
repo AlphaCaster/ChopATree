@@ -1,0 +1,14 @@
+{
+    "class": "Folder",
+    "referent": "RBX911F41C2E013460FB12BF3269C41D8E6",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "BottomJaw",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "0f854540ac8c71310830c6da00005fd7"
+    }
+}

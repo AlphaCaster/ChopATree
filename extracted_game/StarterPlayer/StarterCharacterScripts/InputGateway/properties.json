@@ -1,0 +1,14 @@
+{
+    "class": "Folder",
+    "referent": "RBX9D7E5579020C415C9099200288F64734",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "InputGateway",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7ba"
+    }
+}

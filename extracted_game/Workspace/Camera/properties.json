@@ -1,0 +1,49 @@
+{
+    "class": "Camera",
+    "referent": "RBX5003911CFC5148CE97A48036BCCB2B13",
+    "properties": {
+        "AttributesSerialize": {},
+        "CFrame": {
+            "X": "34.1772385",
+            "Y": "8.1444931",
+            "Z": "16.4397144",
+            "R00": "0.847821295",
+            "R01": "0.105150528",
+            "R02": "-0.519752264",
+            "R10": "-0",
+            "R11": "0.980142951",
+            "R12": "0.198291689",
+            "R20": "0.53028208",
+            "R21": "-0.168115914",
+            "R22": "0.830986083"
+        },
+        "CameraSubject": "null",
+        "CameraType": "0",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "FieldOfView": "70",
+        "FieldOfViewMode": "0",
+        "Focus": {
+            "X": "35.2167435",
+            "Y": "7.74790955",
+            "Z": "14.7777414",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "HeadLocked": "true",
+        "HeadScale": "1",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Camera",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00006116",
+        "VRTiltAndRollEnabled": "false"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBXAE28196D36074060BE6252062FD2C35B",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "QuestRewards",
+        "ScriptGuid": "{9FAB4709-93B2-4F46-A1EB-1686CF754796}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nlocal l_ReplicatedStorage_0 = game:GetService(\"ReplicatedStorage\");\n--local _ = require(l_ReplicatedStorage_0.Data.QuestData.Types);\nlocal v2 = {\n\tSheckles = require(script.Sheckles), \n    Seed = require(script.Seed), \n    [\"Seed Pack\"] = require(script[\"Seed Pack\"])\n};\nreturn (table.freeze(v2));",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e186"
+    }
+}

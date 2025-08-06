@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBXC1DC90EF546547BDB5BE8D2DE080C987",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "MainModule",
+        "ScriptGuid": "{B8BA5D98-30D9-4308-8784-643FF2EFF86F}",
+        "Source": "return require(3239236979)",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "5518fd0d4237929a0861d9f900007daa"
+    }
+}

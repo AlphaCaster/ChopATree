@@ -1,0 +1,143 @@
+{
+    "class": "MeshPart",
+    "referent": "RBX78C77AD940D646DA8E61B4EBE2BFF072",
+    "properties": {
+        "AeroMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "Anchored": "false",
+        "AttributesSerialize": "AQAAAAwAAABBcmNoaW1lZGVzSUQCJAAAADRhYWU4ZGFhLTJjZTctNGY2MS1iZjllLTMwNmI1\nZmI0ZGI0MA==",
+        "AudioCanCollide": "true",
+        "BackParamA": "-0.5",
+        "BackParamB": "0.5",
+        "BackSurface": "0",
+        "BackSurfaceInput": "0",
+        "BottomParamA": "-0.5",
+        "BottomParamB": "0.5",
+        "BottomSurface": "0",
+        "BottomSurfaceInput": "0",
+        "CFrame": {
+            "X": "-60.9886856",
+            "Y": "0.0452134609",
+            "Z": "11.5073862",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "CanCollide": "true",
+        "CanQuery": "true",
+        "CanTouch": "true",
+        "Capabilities": "0",
+        "CastShadow": "false",
+        "CollisionGroup": "Default",
+        "CollisionGroupId": "0",
+        "Color3uint8": "4294924633",
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "DoubleSided": "false",
+        "EnableFluidForces": "true",
+        "FluidFidelityInternal": "0",
+        "FrontParamA": "-0.5",
+        "FrontParamB": "0.5",
+        "FrontSurface": "0",
+        "FrontSurfaceInput": "0",
+        "HasJointOffset": "false",
+        "HasSkinnedMesh": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "InertiaMigrated": "false",
+        "InitialSize": {
+            "X": "4",
+            "Y": "0.800000012",
+            "Z": "10"
+        },
+        "JointOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "LeftParamA": "-0.5",
+        "LeftParamB": "0.5",
+        "LeftSurface": "0",
+        "LeftSurfaceInput": "0",
+        "Locked": "false",
+        "Massless": "false",
+        "Material": "256",
+        "MaterialVariantSerialized": {},
+        "MeshId": {
+            "url": "rbxassetid://91683521019475"
+        },
+        "Name": "FlowerPedalRed",
+        "PhysicalConfigData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "PhysicsData": {},
+        "PivotOffset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Reflectance": "0",
+        "RenderFidelity": "0",
+        "RightParamA": "-0.5",
+        "RightParamB": "0.5",
+        "RightSurface": "0",
+        "RightSurfaceInput": "0",
+        "RootPriority": "0",
+        "RotVelocity": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TextureID": {
+            "null": {}
+        },
+        "TopParamA": "-0.5",
+        "TopParamB": "0.5",
+        "TopSurface": "0",
+        "TopSurfaceInput": "0",
+        "Transparency": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000e065",
+        "UnscaledCofm": {
+            "X": "0",
+            "Y": "0",
+            "Z": "-0.444444448"
+        },
+        "UnscaledVolInertiaDiags": {
+            "X": "210.247116",
+            "Y": "243.911118",
+            "Z": "36.7360001"
+        },
+        "UnscaledVolInertiaOffDiags": {
+            "X": "-0",
+            "Y": "-0",
+            "Z": "-0"
+        },
+        "UnscaledVolume": "28.8000011",
+        "Velocity": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "VertexCount": "60",
+        "size": {
+            "X": "0.383885384",
+            "Y": "0.0904268995",
+            "Z": "0.888721406"
+        }
+    }
+}

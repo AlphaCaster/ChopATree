@@ -1,0 +1,109 @@
+{
+    "class": "ImageButton",
+    "referent": "RBX05F6D7DBBC2D40B1A4799D7597A9C228",
+    "properties": {
+        "Active": "true",
+        "AnchorPoint": {
+            "X": "0",
+            "Y": "0"
+        },
+        "AttributesSerialize": {},
+        "AutoButtonColor": "true",
+        "AutoLocalize": "true",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "0.564705908",
+            "G": "0.921568692",
+            "B": "1"
+        },
+        "BackgroundTransparency": "0",
+        "BorderColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "0",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "HistoryId": "451126a27e5c9c2c081e923400016562",
+        "HoverHapticEffect": "null",
+        "HoverImage": {
+            "url": "rbxassetid://0"
+        },
+        "Image": {
+            "url": "rbxassetid://0"
+        },
+        "ImageColor3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "ImageRectOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "ImageRectSize": {
+            "X": "0",
+            "Y": "0"
+        },
+        "ImageTransparency": "1",
+        "Interactable": "true",
+        "LayoutOrder": "4",
+        "Modal": "false",
+        "Name": "CollectAll",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "Position": {
+            "XS": "0",
+            "XO": "0",
+            "YS": "0.657707393",
+            "YO": "0"
+        },
+        "PressHapticEffect": "null",
+        "PressedImage": {
+            "null": {}
+        },
+        "ResampleMode": "0",
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "ScaleType": "0",
+        "Selectable": "true",
+        "Selected": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "1",
+            "XO": "0",
+            "YS": "0.224999994",
+            "YO": "0"
+        },
+        "SizeConstraint": "0",
+        "SliceCenter": {
+            "min": "\n\t\t\t\t\t\t\t\t",
+            "max": "\n\t\t\t\t\t\t\t\t"
+        },
+        "SliceScale": "1",
+        "SourceAssetId": "-1",
+        "Style": "0",
+        "Tags": "QnV0dG9u",
+        "TileSize": {
+            "XS": "1",
+            "XO": "0",
+            "YS": "1",
+            "YO": "0"
+        },
+        "UniqueId": "1f33acf1382cd3f508338ff800037004",
+        "Visible": "true",
+        "ZIndex": "1"
+    }
+}

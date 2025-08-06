@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX8674622279D34133A6382BBB6ED2E860",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "PlayTime",
+        "ScriptGuid": "{A1335D22-8630-4F08-8BA9-88217DB6CAB7}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nlocal l_ReplicatedStorage_0 = game:GetService(\"ReplicatedStorage\");\n--local _ = require(l_ReplicatedStorage_0.Data.QuestData.Types);\nlocal v2 = require(l_ReplicatedStorage_0.Modules.TimeHelper);\nreturn {\n    Type = \"PlayTime\", \n    Display = function(_, v4, v5) --[[ Line: 11 ]] --[[ Name: Display ]]\n        -- upvalues: v2 (copy)\n        local v6 = v2:GenerateColonFormatFromTime(v5);\n        return {\n            Title = (\"Play for %*\"):format(v6), \n            Bar = (\"%*/%*\"):format(v2:GenerateColonFormatFromTime(v4), v6)\n        };\n    end, \n    Use = function(v7, v8) --[[ Line: 20 ]] --[[ Name: Use ]]\n        local v9 = table.clone(v8);\n        v9.Type = v7.Type;\n        return v9;\n    end\n};",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e18c"
+    }
+}

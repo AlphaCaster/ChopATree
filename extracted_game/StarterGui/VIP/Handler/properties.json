@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBXF30DB5AD64D942CEAB1E3777C53B5CD4",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Handler",
+        "RunContext": "0",
+        "ScriptGuid": "{3C334D02-54CA-4417-AD18-3BCA831C4D6C}",
+        "Source": "��\u001a�\u0014",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "1f33acf1382cd3f508338ff80002a825"
+    }
+}

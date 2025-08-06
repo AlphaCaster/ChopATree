@@ -1,0 +1,15 @@
+{
+    "class": "NumberValue",
+    "referent": "RBX35CF842C2A754E47A77855B357DA1885",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Progress",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7cd",
+        "Value": "0"
+    }
+}

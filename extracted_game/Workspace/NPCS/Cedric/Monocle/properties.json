@@ -1,0 +1,29 @@
+{
+    "class": "Accessory",
+    "referent": "RBX9BBE0160612043669C3B7B3A2C382DBD",
+    "properties": {
+        "AccessoryType": "0",
+        "AttachmentPoint": {
+            "X": "0.280000001",
+            "Y": "0.720000029",
+            "Z": "0.569999993",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Monocle",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d71c"
+    }
+}

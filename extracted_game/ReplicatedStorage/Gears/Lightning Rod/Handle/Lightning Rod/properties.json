@@ -1,0 +1,42 @@
+{
+    "class": "Model",
+    "referent": "RBX6FB213A17D9B45429250CD5260CF9D78",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Lightning Rod",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "RBX49EABCB2476E407386682AE19CC09240",
+        "ScaleFactor": "1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "744fece71da4047708365b0a000061eb",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t\t\t"
+        }
+    }
+}

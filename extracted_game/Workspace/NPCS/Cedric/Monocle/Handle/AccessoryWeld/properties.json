@@ -1,0 +1,45 @@
+{
+    "class": "Weld",
+    "referent": "RBX7D62ED11E0A7460890AB8214B42D13A9",
+    "properties": {
+        "AttributesSerialize": {},
+        "C0": {
+            "X": "0.280000001",
+            "Y": "0.220000267",
+            "Z": "-0.030272305",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "C1": {
+            "X": "0",
+            "Y": "0",
+            "Z": "-0.600000024",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "AccessoryWeld",
+        "Part0": "RBX52E0943C7B8E4659B6A5F869E042E348",
+        "Part1": "RBXE3D787F217DB4C99BD86D75AA89CDAAB",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d720"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX82385A9ABC6F44959121CBA93E62F4EA",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "TravellingShopConfigData",
+        "ScriptGuid": "{7E54D92F-64C4-4A2A-9179-6376B4C056C4}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nreturn {\n    RESET_TIME = 3600, \n    REQUIRED_WEIGHT = 30, \n    ROTATING_SHOP_SLOTS = 5\n};",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e1a3"
+    }
+}

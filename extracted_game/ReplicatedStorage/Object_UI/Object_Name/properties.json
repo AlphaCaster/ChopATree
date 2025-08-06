@@ -1,0 +1,15 @@
+{
+    "class": "StringValue",
+    "referent": "RBX3E5D7FF237154551ABFB12000F8765E9",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Object_Name",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e0e6",
+        "Value": "Designer Glasses"
+    }
+}

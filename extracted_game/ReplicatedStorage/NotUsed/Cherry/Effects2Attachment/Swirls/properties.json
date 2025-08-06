@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX5CC7C5AAA14A452E837CAB315ECFF470",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "AttributesSerialize": {},
+        "Brightness": "10",
+        "Capabilities": "0",
+        "Color": "0 0.960784 0.415686 1 0 0.538062 1 0.254902 1 0 1 0.596078 0.964706 1 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "20",
+        "EmissionDirection": "1",
+        "Enabled": "true",
+        "FlipbookFramerate": "1 1 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "2",
+        "FlipbookMode": "1",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 2 ",
+        "LightEmission": "1",
+        "LightInfluence": "0",
+        "LockedToPart": "true",
+        "Name": "Swirls",
+        "Orientation": "0",
+        "Rate": "2",
+        "RotSpeed": "-30 30 ",
+        "Rotation": "-360 360 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 0.5 0 1 0.5 0 ",
+        "SourceAssetId": "-1",
+        "Speed": "1 1 ",
+        "SpreadAngle": {
+            "X": "360",
+            "Y": "360"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "http://www.roblox.com/asset/?id=12094495797"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 1 0 0.297479 1 0 0.69916 0.9125 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000e9b8",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "0"
+    }
+}

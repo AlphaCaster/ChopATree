@@ -1,0 +1,35 @@
+{
+    "class": "MaterialVariant",
+    "referent": "RBX1B362A181C5540A795C0985812DB6C14",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseMaterial": "256",
+        "Capabilities": "0",
+        "ColorMap": {
+            "url": "rbxassetid://6348166067"
+        },
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaterialPattern": "0",
+        "MetalnessMap": {
+            "null": {}
+        },
+        "Name": "Studs",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "12240877387",
+        "StudsPerTile": "1",
+        "Tags": {},
+        "TexturePack": {
+            "url": "rbxassetid://12240717033"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000e02d"
+    }
+}

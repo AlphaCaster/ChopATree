@@ -1,0 +1,40 @@
+{
+    "class": "MaterialVariant",
+    "referent": "RBX967B1C091519416B80E1801D9AB2115E",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseMaterial": "1088",
+        "Capabilities": "0",
+        "ColorMap": {
+            "url": "rbxassetid://8348649983"
+        },
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "true",
+            "Density": "9.99999975e-05",
+            "Friction": "0",
+            "Elasticity": "0",
+            "FrictionWeight": "0",
+            "ElasticityWeight": "0"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaterialPattern": "0",
+        "MetalnessMap": {
+            "url": "rbxassetid://8348649671"
+        },
+        "Name": "Really Reflective Metal",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "url": "rbxassetid://8348649275"
+        },
+        "SourceAssetId": "9757343414",
+        "StudsPerTile": "10",
+        "Tags": {},
+        "TexturePack": {
+            "url": "rbxassetid://138095036993167"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000e02c"
+    }
+}

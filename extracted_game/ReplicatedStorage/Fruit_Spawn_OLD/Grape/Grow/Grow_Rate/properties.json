@@ -1,0 +1,15 @@
+{
+    "class": "NumberValue",
+    "referent": "RBX72DE61B75C0145DCB199BC3A16EE2AD3",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Grow_Rate",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ebfd",
+        "Value": "0.050000000000000002776"
+    }
+}

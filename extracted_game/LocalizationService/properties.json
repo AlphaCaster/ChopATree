@@ -1,0 +1,14 @@
+{
+    "class": "LocalizationService",
+    "referent": "RBX25938A6737344071B8FC73E02C71288D",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "LocalizationService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000033d"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX4DDAF61E56FD4AD99E2B8C5D7E1FE9D7",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "Equip",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://116335215736667"
+        },
+        "SourceAssetId": "9119637082",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f7b7",
+        "Volume": "0.5"
+    }
+}

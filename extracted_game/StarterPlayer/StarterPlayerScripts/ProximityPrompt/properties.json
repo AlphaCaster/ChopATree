@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBX3FB775573FFF4293A6EB760C99B361F5",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "ProximityPrompt",
+        "RunContext": "0",
+        "ScriptGuid": "{FC4609C7-52DD-4843-A3A9-AD332BD8F2C3}",
+        "Source": "��\u001a����)��#�jmI���",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7c76a6e4b91322de08312df800054847"
+    }
+}

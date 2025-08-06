@@ -1,0 +1,17 @@
+{
+    "class": "Chat",
+    "referent": "RBX5D511AC27E35490AB8492D771442F15B",
+    "properties": {
+        "AttributesSerialize": {},
+        "BubbleChatEnabled": "false",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsAutoMigrated": "true",
+        "LoadDefaultChat": "true",
+        "Name": "Chat",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400000327"
+    }
+}

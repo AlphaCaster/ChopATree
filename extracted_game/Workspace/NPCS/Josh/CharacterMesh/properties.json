@@ -1,0 +1,18 @@
+{
+    "class": "CharacterMesh",
+    "referent": "RBX93DEE1D441CC408BAD9A7B295FAF9B65",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseTextureId": "0",
+        "BodyPart": "5",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MeshId": "319336155",
+        "Name": "CharacterMesh",
+        "OverlayTextureId": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d7e6"
+    }
+}

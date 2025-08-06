@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBXEAF6B8B2D9654AFFB98603D8098CD161",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "-50",
+            "Z": "0"
+        },
+        "AttributesSerialize": "AQAAAAkAAABFbWl0Q291bnQGAAAAAAAAJEA=",
+        "Brightness": "5",
+        "Capabilities": "0",
+        "Color": "0 0.960784 0.854902 0.266667 0 0.297578 0.705882 0.192157 0.796078 0 0.622837 0.192157 0.192157 0.74902 0 1 0.8 0.133333 0.133333 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "10",
+        "EmissionDirection": "1",
+        "Enabled": "true",
+        "FlipbookFramerate": "30 30 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "0",
+        "FlipbookMode": "1",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 2 ",
+        "LightEmission": "0.300000012",
+        "LightInfluence": "0",
+        "LockedToPart": "false",
+        "Name": "dots",
+        "Orientation": "0",
+        "Rate": "50",
+        "RotSpeed": "0 0 ",
+        "Rotation": "90 90 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 0 0 0.100998 1.0625 0.403467 0.198254 1.4375 0.5 0.299252 1.8125 0.5 0.399002 1.8125 0.5 0.506234 1.8125 0.5 0.597257 1.75 0.5 0.700748 1.5625 0.5 0.805486 1.375 0.5 0.9 0.999841 0.5 1 1 0.5 ",
+        "SourceAssetId": "-1",
+        "Speed": "10 60 ",
+        "SpreadAngle": {
+            "X": "-360",
+            "Y": "360"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://121313214730134"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 0 0 1 0 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000f139",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "2"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "class": "Tool",
+    "referent": "RBX2F98C69AC1D747B9B821DDBA3F19A612",
+    "properties": {
+        "AttributesSerialize": {},
+        "CanBeDropped": "false",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Grip": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ManualActivationOnly": "false",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Broken Ladder",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "null",
+        "RequiresHandle": "true",
+        "ScaleFactor": "1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TextureId": {
+            "null": {}
+        },
+        "ToolTip": "Climb!",
+        "UniqueId": "571972e636150771083505dc0000b588",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t"
+        }
+    }
+}

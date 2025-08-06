@@ -1,0 +1,21 @@
+{
+    "class": "Script",
+    "referent": "RBX4D5301FAAB4C469FB7D8056E72229248",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Rainbow",
+        "RunContext": "0",
+        "ScriptGuid": "{2D13EEE7-75F3-403D-89A4-7D1E382123F1}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\n-- [FilteringEnabled] Server Scripts are IMPOSSIBLE to save",
+        "SourceAssetId": "5136506343",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e949"
+    }
+}

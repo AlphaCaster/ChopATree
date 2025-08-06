@@ -1,0 +1,42 @@
+{
+    "class": "Model",
+    "referent": "RBX863C45433C1A4BAF9995A8AE10A4648F",
+    "properties": {
+        "AttributesSerialize": "AgAAAA0AAABHcm93UmF0ZU11bHRpBnsUrkfheoQ/DAAAAEdyb3dUaWNrVGltZRsAAEA/AACg\nPw==",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Soul Fruit",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "RBX6DE44779B20F4E6D83C536B9558B2085",
+        "ScaleFactor": "1",
+        "SourceAssetId": "-1",
+        "Tags": "R3Jvd2FibGUATXV0YXRhYmxlAEhhcnZlc3RhYmxl",
+        "UniqueId": "451126a27e5c9c2c081e92340000ed42",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t"
+        }
+    }
+}

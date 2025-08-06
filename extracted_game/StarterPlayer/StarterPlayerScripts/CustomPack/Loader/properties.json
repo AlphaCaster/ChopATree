@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBXDADF94F590FB4F60B285FE05BC419DC2",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Loader",
+        "RunContext": "0",
+        "ScriptGuid": "{DE28A692-B6C2-4DF8-8F83-28CC0CA13304}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nrequire(script:WaitForChild(\"Main\"));",
+        "SourceAssetId": "6804803329",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f83c"
+    }
+}

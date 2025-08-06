@@ -1,0 +1,29 @@
+{
+    "class": "UIStroke",
+    "referent": "RBX6DDB062B780D461FA50B5EDE51567030",
+    "properties": {
+        "ApplyStrokeMode": "0",
+        "AttributesSerialize": {},
+        "BorderOffset": {
+            "S": "0",
+            "O": "0"
+        },
+        "BorderStrokePosition": "0",
+        "Capabilities": "0",
+        "Color": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "451126a27e5c9c2c081e923400016ab0",
+        "LineJoinMode": "0",
+        "Name": "UIStroke",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Thickness": "1",
+        "Transparency": "0",
+        "UniqueId": "6f9dedcb9137603b083620f300005f86"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX0E5F676AE04845859178E7F66640F421",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "AttributesSerialize": "AwAAAAkAAABFbWl0Q291bnQGAAAAAAAACEAJAAAARW1pdERlbGF5BgAAAAAAAAAADAAAAEVt\naXREdXJhdGlvbgYAAAAAAAAAAA==",
+        "Brightness": "1",
+        "Capabilities": "0",
+        "Color": "0 0.831373 0.403922 1 0 1 0.831373 0.403922 1 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "15",
+        "EmissionDirection": "1",
+        "Enabled": "false",
+        "FlipbookFramerate": "15 15 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "2",
+        "FlipbookMode": "0",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 1 ",
+        "LightEmission": "1",
+        "LightInfluence": "0",
+        "LockedToPart": "false",
+        "Name": "ParticleEmitter",
+        "Orientation": "0",
+        "Rate": "15",
+        "RotSpeed": "0 0 ",
+        "Rotation": "0 0 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 5 0 1 5 0 ",
+        "SourceAssetId": "-1",
+        "Speed": "100 100 ",
+        "SpreadAngle": {
+            "X": "-360",
+            "Y": "360"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://8733226116"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 0 0 0.386503 0 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000dc20",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "0"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "class": "UITextSizeConstraint",
+    "referent": "RBX47AA827E91DD4231852CBB70A9658BDE",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaxTextSize": "20",
+        "MinTextSize": "1",
+        "Name": "UITextSizeConstraint",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "42836feeae32e60f083651220000c62d"
+    }
+}

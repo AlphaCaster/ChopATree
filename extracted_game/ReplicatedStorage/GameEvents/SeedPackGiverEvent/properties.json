@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBXBDB2155EF26C4FFEB0622C4CB5D8AE3A",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "SeedPackGiverEvent",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e169"
+    }
+}

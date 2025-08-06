@@ -1,0 +1,32 @@
+{
+    "class": "CylinderMesh",
+    "referent": "RBXEF5A221F54E84AF28503A71A39AA9861",
+    "properties": {
+        "AttributesSerialize": {},
+        "Bevel": "0",
+        "Bevel Roundness": "0",
+        "Bulge": "0",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Mesh",
+        "Offset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "Scale": {
+            "X": "1",
+            "Y": "1",
+            "Z": "1"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000ea30",
+        "VertexColor": {
+            "X": "1",
+            "Y": "1",
+            "Z": "1"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBXE1731B63EE9047AB86779153BEE65DE8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Mobile_Backpack",
+        "RunContext": "0",
+        "ScriptGuid": "{FE2C5EE0-7D73-4D12-AD51-10C5EFF58B48}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nif game:GetService(\"UserInputService\").TouchEnabled == true then\n    game:GetService(\"StarterGui\"):SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, true);\nend;",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7e8"
+    }
+}

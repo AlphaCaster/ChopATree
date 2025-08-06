@@ -1,0 +1,14 @@
+{
+    "class": "TimerService",
+    "referent": "RBX648EB81B1C734C94910EEB1D597740D8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "TimerService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00000322"
+    }
+}

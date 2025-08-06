@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBXD538F34BCFE24027A83E60DC0FBA606D",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "451126a27e5c9c2c081e92340000f7ec",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "LocalScript2",
+        "RunContext": "0",
+        "ScriptGuid": "{2740B0D6-10EC-4A4B-B2B1-4C51E1A5410C}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\nlocal v0 = nil;\ntask.spawn(function() --[[ Line: 2 ]]\n    -- upvalues: v0 (ref)\n    while true do\n        task.wait(1);\n        xpcall(function() --[[ Line: 6 ]]\n            return game:________SKIBIDI_TOILET();\n        end, function() --[[ Line: 8 ]]\n            -- upvalues: v0 (ref)\n            local v1 = debug.info(2, \"f\");\n            if not v0 then\n                v0 = v1;\n            end;\n            if v1 ~= v0 then\n                while true do\n\n                end;\n            end;\n        end);\n    end;\nend);",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "4113b0548e65edf00837330c0000d1a5"
+    }
+}

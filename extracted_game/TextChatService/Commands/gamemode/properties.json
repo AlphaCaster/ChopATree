@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBX826C373F6B134F7CB069C396799CF36D",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "gamemode",
+        "PrimaryAlias": "/gamemode",
+        "SecondaryAlias": "/gamemode",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f875"
+    }
+}

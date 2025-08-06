@@ -1,0 +1,22 @@
+{
+    "class": "BodyPartDescription",
+    "referent": "RBXD476BD84DDEA467D84B6E49E42F10574",
+    "properties": {
+        "AssetId": "376531703",
+        "AttributesSerialize": {},
+        "BodyPart": "5",
+        "Capabilities": "0",
+        "Color": {
+            "R": "0.917647064",
+            "G": "0.721568644",
+            "B": "0.572549045"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Instance": "null",
+        "Name": "BodyPartDescription",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d7de"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX90DBFC13B70F41C3A32BA752B8F12BD2",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "SeedGiverQuestProgression",
+        "ScriptGuid": "{8BD648E0-0657-4D38-8F71-1AC28498AD25}",
+        "Source": "I��u���+ޮƥK)�j����Z�ǉ�)��*)�f�z�m��?�جr�݂\u000f�Ǆ�\u000b&·����,\u0003S4\u0003\u0004N����� a�ӓ\u0014L\u0004�8��P\u0011 \u0003S�)O,\u0003S4\u0003\u0004J������%� a��s\u0014L\u0004�8��P\u0011 \u0003S�)O,\u0003S4\u0003\u0004\u0006[�m���a\b\u0018t",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e1a4"
+    }
+}

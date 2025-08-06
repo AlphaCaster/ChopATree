@@ -1,0 +1,17 @@
+{
+    "class": "UIAspectRatioConstraint",
+    "referent": "RBXEB5CB704586A48FC875929B87425F6DC",
+    "properties": {
+        "AspectRatio": "1",
+        "AspectType": "0",
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "DominantAxis": "0",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "UIAspectRatioConstraint",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e0da"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "class": "UnreliableRemoteEvent",
+    "referent": "RBXC04173195AB54D5FB45A2897C637BC03",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "EffectRequest",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e144"
+    }
+}

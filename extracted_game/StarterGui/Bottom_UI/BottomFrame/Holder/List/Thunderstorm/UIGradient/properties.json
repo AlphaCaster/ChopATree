@@ -1,0 +1,22 @@
+{
+    "class": "UIGradient",
+    "referent": "RBX09FA178AD3304264BEBD9779CFA6F5A5",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color": "0 0.666667 0.666667 0 0 1 1 1 0.498039 0 ",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "UIGradient",
+        "Offset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "Rotation": "-90",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Transparency": "0 0 0 1 0 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000f739"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "class": "TextLabel",
+    "referent": "RBX2BD28F24FD7A4843808521D24857C683",
+    "properties": {
+        "Active": "false",
+        "AnchorPoint": {
+            "X": "0",
+            "Y": "0"
+        },
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "0.976470649",
+            "G": "0.972549081",
+            "B": "1"
+        },
+        "BackgroundTransparency": "1",
+        "BorderColor3": {
+            "R": "0.105882362",
+            "G": "0.164705887",
+            "B": "0.207843155"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "1",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "FontFace": {
+            "Family": {
+                "url": "rbxasset://fonts/families/GothamSSm.json"
+            },
+            "Weight": "500",
+            "Style": "Normal"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "Interactable": "true",
+        "LayoutOrder": "0",
+        "LineHeight": "1",
+        "LocalizationMatchIdentifier": {},
+        "LocalizationMatchedSourceText": {},
+        "MaxVisibleGraphemes": "-1",
+        "Name": "ObjectText",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "OpenTypeFeatures": {},
+        "Position": {
+            "XS": "0.5",
+            "XO": "-24",
+            "YS": "0",
+            "YO": "-10"
+        },
+        "RichText": "false",
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "Selectable": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "1",
+            "XO": "0",
+            "YS": "1",
+            "YO": "0"
+        },
+        "SizeConstraint": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Text": "Object Text",
+        "TextColor3": {
+            "R": "0.698039234",
+            "G": "0.698039234",
+            "B": "0.698039234"
+        },
+        "TextDirection": "0",
+        "TextScaled": "false",
+        "TextSize": "14",
+        "TextStrokeColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "TextStrokeTransparency": "1",
+        "TextTransparency": "0",
+        "TextTruncate": "0",
+        "TextWrapped": "false",
+        "TextXAlignment": "0",
+        "TextYAlignment": "1",
+        "UniqueId": "451126a27e5c9c2c081e92340000f7d5",
+        "Visible": "true",
+        "ZIndex": "1"
+    }
+}

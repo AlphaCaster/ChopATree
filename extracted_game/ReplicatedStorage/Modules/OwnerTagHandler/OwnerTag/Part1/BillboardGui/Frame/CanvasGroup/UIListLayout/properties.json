@@ -1,0 +1,26 @@
+{
+    "class": "UIListLayout",
+    "referent": "RBXDF72B538C6774BEC87A064D91F2D51B6",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "FillDirection": "1",
+        "HistoryId": "00000000000000000000000000000000",
+        "HorizontalAlignment": "0",
+        "HorizontalFlex": "0",
+        "ItemLineAlignment": "0",
+        "Name": "UIListLayout",
+        "Padding": {
+            "S": "0",
+            "O": "0"
+        },
+        "SortOrder": "2",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f0000e7a1",
+        "VerticalAlignment": "2",
+        "VerticalFlex": "0",
+        "Wraps": "false"
+    }
+}

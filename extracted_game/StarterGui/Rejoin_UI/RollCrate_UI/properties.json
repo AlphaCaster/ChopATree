@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBX25B765D80C084DE096FFFB1555CD1CC3",
+    "properties": {
+        "AttributesSerialize": "AQAAAAQAAABicnVoAwA=",
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "0",
+        "Enabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RollCrate_UI",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "2",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400016d20",
+        "ZIndexBehavior": "1"
+    }
+}

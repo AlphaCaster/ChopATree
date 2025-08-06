@@ -1,0 +1,15 @@
+{
+    "class": "BoolValue",
+    "referent": "RBXF053B6C49AE44A84A59B973F1ABDEC63",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Show_Bottom",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f0000e7c9",
+        "Value": "false"
+    }
+}

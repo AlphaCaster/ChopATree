@@ -1,0 +1,30 @@
+{
+    "class": "UIPadding",
+    "referent": "RBXD9F4E51DC4154AB197F9F84F6AA11FE7",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "451126a27e5c9c2c081e923400017dc8",
+        "Name": "UIPadding",
+        "PaddingBottom": {
+            "S": "0",
+            "O": "0"
+        },
+        "PaddingLeft": {
+            "S": "0.0250000004",
+            "O": "0"
+        },
+        "PaddingRight": {
+            "S": "0.0250000004",
+            "O": "0"
+        },
+        "PaddingTop": {
+            "S": "0",
+            "O": "0"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "4113b0548e65edf00837330c0000d2e1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "class": "StringValue",
+    "referent": "RBX6D38D3011C044E5CB94AAE9088492B7A",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Value",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7e5",
+        "Value": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "class": "NonReplicatedCSGDictionaryService",
+    "referent": "RBX3A97E68CFF9241E6B79B08FD1A91DBB8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "NonReplicatedCSGDictionaryService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00000330"
+    }
+}

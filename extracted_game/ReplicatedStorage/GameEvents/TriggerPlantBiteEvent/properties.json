@@ -1,0 +1,14 @@
+{
+    "class": "BindableFunction",
+    "referent": "RBXB696FAB542BC4616A45E0347598DD2DC",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "TriggerPlantBiteEvent",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e16d"
+    }
+}

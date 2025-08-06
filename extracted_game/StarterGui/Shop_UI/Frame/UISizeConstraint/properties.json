@@ -1,0 +1,22 @@
+{
+    "class": "UISizeConstraint",
+    "referent": "RBX92BC0556E4834CACACAF3197D7BEAF5B",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaxSize": {
+            "X": "INF",
+            "Y": "INF"
+        },
+        "MinSize": {
+            "X": "400",
+            "Y": "330"
+        },
+        "Name": "UISizeConstraint",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400016ae3"
+    }
+}

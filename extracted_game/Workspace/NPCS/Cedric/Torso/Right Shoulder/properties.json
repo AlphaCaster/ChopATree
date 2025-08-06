@@ -1,0 +1,47 @@
+{
+    "class": "Motor6D",
+    "referent": "RBXB5F52100B0D24ACAAB06092AAAFFFF4C",
+    "properties": {
+        "AttributesSerialize": {},
+        "C0": {
+            "X": "1",
+            "Y": "0.5",
+            "Z": "0",
+            "R00": "0",
+            "R01": "0",
+            "R02": "1",
+            "R10": "0",
+            "R11": "1",
+            "R12": "-0",
+            "R20": "-1",
+            "R21": "0",
+            "R22": "0"
+        },
+        "C1": {
+            "X": "-0.5",
+            "Y": "0.5",
+            "Z": "0",
+            "R00": "0",
+            "R01": "0",
+            "R02": "1",
+            "R10": "0",
+            "R11": "1",
+            "R12": "-0",
+            "R20": "-1",
+            "R21": "0",
+            "R22": "0"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "DesiredAngle": "0",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaxVelocity": "0.100000001",
+        "Name": "Right Shoulder",
+        "Part0": "RBXB3FFDA4902ED4D6E908C086084352414",
+        "Part1": "RBXE217DE579BA84BE6833F86B2BA821B72",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d7a0"
+    }
+}

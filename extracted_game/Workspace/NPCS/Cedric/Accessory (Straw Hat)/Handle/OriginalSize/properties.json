@@ -1,0 +1,19 @@
+{
+    "class": "Vector3Value",
+    "referent": "RBXF49D8E3FB11F437EAF59F847249460C0",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "OriginalSize",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d719",
+        "Value": {
+            "X": "2.89680743",
+            "Y": "0.981688678",
+            "Z": "2.85425186"
+        }
+    }
+}

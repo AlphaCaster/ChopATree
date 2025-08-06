@@ -1,0 +1,35 @@
+{
+    "class": "MaterialVariant",
+    "referent": "RBX93628BF9D13A488C86478751E55B2CF1",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseMaterial": "256",
+        "Capabilities": "0",
+        "ColorMap": {
+            "url": "rbxassetid://88332812310067"
+        },
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaterialPattern": "0",
+        "MetalnessMap": {
+            "url": "rbxassetid://122323780355289"
+        },
+        "Name": "Chocolate",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "-1",
+        "StudsPerTile": "4",
+        "Tags": {},
+        "TexturePack": {
+            "url": "rbxassetid://132254157510982"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000e031"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBXDFC1737C328F4A8895C39700A5DB4954",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "SendClientWeatherEvents",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e154"
+    }
+}

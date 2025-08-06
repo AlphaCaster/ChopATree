@@ -1,0 +1,31 @@
+{
+    "class": "Pose",
+    "referent": "RBX68F1BF232D84422EA41D1756E918112A",
+    "properties": {
+        "AttributesSerialize": {},
+        "CFrame": {
+            "X": "5.12599945e-06",
+            "Y": "-0.399998486",
+            "Z": "0",
+            "R00": "-0.0871315002",
+            "R01": "-0.996196866",
+            "R02": "0",
+            "R10": "0.996196866",
+            "R11": "-0.0871315002",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "EasingDirection": "0",
+        "EasingStyle": "0",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Right Arm",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "1f33acf1382cd3f508338ff80003682b",
+        "Weight": "1"
+    }
+}

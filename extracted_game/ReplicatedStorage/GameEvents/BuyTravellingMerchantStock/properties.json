@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBXA751CB543D8B441AA9EC9916C03B1D6B",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "BuyTravellingMerchantStock",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e15a"
+    }
+}

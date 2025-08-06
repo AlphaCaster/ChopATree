@@ -1,0 +1,15 @@
+{
+    "class": "NumberValue",
+    "referent": "RBX202CC6DE5BB945BEAEE1CC351556B341",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Item_Speed_Mult",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000eb96",
+        "Value": "4"
+    }
+}

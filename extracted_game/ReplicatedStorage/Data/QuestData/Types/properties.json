@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBXBFB03DF471A7480D996795D442D58DF1",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Types",
+        "ScriptGuid": "{8B5C12AC-D2CA-44A4-8061-626EA97DECE1}",
+        "Source": "-- Saved by UniversalSynSaveInstance (Join to Copy Games) https://discord.gg/wx4ThpAsmw\n\n",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e185"
+    }
+}

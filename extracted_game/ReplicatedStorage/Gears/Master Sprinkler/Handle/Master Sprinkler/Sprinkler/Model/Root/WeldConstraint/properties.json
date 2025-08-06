@@ -1,0 +1,31 @@
+{
+    "class": "WeldConstraint",
+    "referent": "RBX0BAD899045CA47FF92F9A5A87A0365A7",
+    "properties": {
+        "AttributesSerialize": {},
+        "CFrame0": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "WeldConstraint",
+        "Part0Internal": "RBX89D593673435411382872CCEF23730CF",
+        "Part1Internal": "RBX47E67CC5FEF64AEBAA48CA54016C6C13",
+        "SourceAssetId": "-1",
+        "State": "1",
+        "Tags": {},
+        "UniqueId": "4113b0548e65edf00837330c0000a5ad"
+    }
+}

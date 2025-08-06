@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX02CE89874B9D4A32B4D6FA0419805BE7",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "AttributesSerialize": {},
+        "Brightness": "1",
+        "Capabilities": "0",
+        "Color": "0 0.913725 0.596078 1 0 1 0.913725 0.596078 1 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "0",
+        "EmissionDirection": "1",
+        "Enabled": "false",
+        "FlipbookFramerate": "1 1 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "0",
+        "FlipbookMode": "0",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "1 1 ",
+        "LightEmission": "1",
+        "LightInfluence": "0",
+        "LockedToPart": "true",
+        "Name": "Star",
+        "Orientation": "0",
+        "Rate": "1",
+        "RotSpeed": "0 0 ",
+        "Rotation": "0 0 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 1 0 1 1 0 ",
+        "SourceAssetId": "-1",
+        "Speed": "1 1 ",
+        "SpreadAngle": {
+            "X": "0",
+            "Y": "0"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://12362727262"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 1 0 0.50084 0 0 1 1 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000e9b9",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "0"
+    }
+}

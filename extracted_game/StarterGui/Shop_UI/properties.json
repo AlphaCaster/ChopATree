@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBX641764E780B54792BCBC4306626687C4",
+    "properties": {
+        "AttributesSerialize": "AQAAAAQAAABicnVoAwA=",
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "121",
+        "Enabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Shop_UI",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "2",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e9234000169fc",
+        "ZIndexBehavior": "1"
+    }
+}

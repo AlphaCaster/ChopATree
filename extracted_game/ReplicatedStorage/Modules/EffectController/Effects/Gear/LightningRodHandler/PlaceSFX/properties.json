@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX7817602BB0ED454FB54C9D776B24E3E8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "PlaceSFX",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "50",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "3",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://315912428"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "451126a27e5c9c2c081e92340000f141",
+        "Volume": "1"
+    }
+}

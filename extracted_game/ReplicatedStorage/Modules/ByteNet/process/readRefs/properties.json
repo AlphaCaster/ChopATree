@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX7230B02290A04504AE9CE78E6601C0EB",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "readRefs",
+        "ScriptGuid": "{90DD0D59-688F-4B72-8067-CB7BFB7B6295}",
+        "Source": "��b��hq�\\��ޞ�hq�ky�Qy�",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f00014bcb"
+    }
+}

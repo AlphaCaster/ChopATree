@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBX2DD457EB3708494282F9FA382CF31D02",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "SprinklerService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e16a"
+    }
+}

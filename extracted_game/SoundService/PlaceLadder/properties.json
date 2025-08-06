@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX450803725961464E9908CF1FC15700A8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "PlaceLadder",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "3",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://126081486788479"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "571972e636150771083505dc00014cd6",
+        "Volume": "0.150000006"
+    }
+}

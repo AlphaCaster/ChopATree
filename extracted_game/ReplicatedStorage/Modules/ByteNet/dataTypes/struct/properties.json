@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBXA2176EACE8DC44B2979C3F590877E73E",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "struct",
+        "ScriptGuid": "{195DA38D-D472-42B1-95ED-00ADB8F801E6}",
+        "Source": "��\u001a�\u001b�I���",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f00014bb9"
+    }
+}

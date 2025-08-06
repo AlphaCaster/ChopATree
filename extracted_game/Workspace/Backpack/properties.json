@@ -1,0 +1,14 @@
+{
+    "class": "Backpack",
+    "referent": "RBX26C6E1573C1F43EBB3711863ADA0EFAE",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Backpack",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "744fece71da4047708365b0a000061dd"
+    }
+}

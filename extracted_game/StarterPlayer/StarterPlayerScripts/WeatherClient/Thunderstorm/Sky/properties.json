@@ -1,0 +1,47 @@
+{
+    "class": "Sky",
+    "referent": "RBXD435F546CA1641469EACA28689517705",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "CelestialBodiesShown": "true",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MoonAngularSize": "6",
+        "MoonTextureId": {
+            "url": "rbxasset://sky/moon.jpg"
+        },
+        "Name": "Sky",
+        "SkyboxBk": {
+            "url": "rbxassetid://15063412549"
+        },
+        "SkyboxDn": {
+            "url": "rbxassetid://15063341496"
+        },
+        "SkyboxFt": {
+            "url": "rbxassetid://15063442046"
+        },
+        "SkyboxLf": {
+            "url": "rbxassetid://15063367382"
+        },
+        "SkyboxOrientation": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "SkyboxRt": {
+            "url": "rbxassetid://15063435355"
+        },
+        "SkyboxUp": {
+            "url": "rbxassetid://15063353447"
+        },
+        "SourceAssetId": "15068946553",
+        "StarCount": "3000",
+        "SunAngularSize": "9",
+        "SunTextureId": {
+            "url": "rbxasset://sky/sun.jpg"
+        },
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7f1"
+    }
+}

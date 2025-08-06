@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBX18BACA6A1AB64E668129BA6311A8BDE7",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "ChangeSkin",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "00c60779302f65160835e9200000bd41"
+    }
+}

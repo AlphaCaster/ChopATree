@@ -1,0 +1,22 @@
+{
+    "class": "Clouds",
+    "referent": "RBX626B06485D0B41DDA75BB3D87DC54ED0",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color": {
+            "R": "0.0862745047",
+            "G": "0.156862736",
+            "B": "0.274509788"
+        },
+        "Cover": "0",
+        "DefinesCapabilities": "false",
+        "Density": "0",
+        "Enabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Clouds",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000dc18"
+    }
+}

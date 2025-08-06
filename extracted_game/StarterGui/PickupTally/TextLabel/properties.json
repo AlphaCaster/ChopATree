@@ -1,0 +1,100 @@
+{
+    "class": "TextLabel",
+    "referent": "RBX00414AA3ECA042328294B88A5581B326",
+    "properties": {
+        "Active": "false",
+        "AnchorPoint": {
+            "X": "0",
+            "Y": "0"
+        },
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "BackgroundTransparency": "1",
+        "BorderColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "0",
+        "Capabilities": "0",
+        "ClipsDescendants": "false",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "FontFace": {
+            "Family": {
+                "url": "rbxasset://fonts/families/ComicNeueAngular.json"
+            },
+            "Weight": "400",
+            "Style": "Italic"
+        },
+        "HistoryId": "00000000000000000000000000000000",
+        "Interactable": "false",
+        "LayoutOrder": "0",
+        "LineHeight": "1",
+        "LocalizationMatchIdentifier": {},
+        "LocalizationMatchedSourceText": {},
+        "MaxVisibleGraphemes": "-1",
+        "Name": "TextLabel",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "OpenTypeFeatures": {},
+        "Position": {
+            "XS": "0.730745673",
+            "XO": "0",
+            "YS": "0.663559377",
+            "YO": "0"
+        },
+        "RichText": "true",
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "Selectable": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "0.180372506",
+            "XO": "0",
+            "YS": "0.0564759299",
+            "YO": "0"
+        },
+        "SizeConstraint": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Text": "x0",
+        "TextColor3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "TextDirection": "0",
+        "TextScaled": "true",
+        "TextSize": "14",
+        "TextStrokeColor3": {
+            "R": "0",
+            "G": "0",
+            "B": "0"
+        },
+        "TextStrokeTransparency": "0",
+        "TextTransparency": "1",
+        "TextTruncate": "0",
+        "TextWrapped": "true",
+        "TextXAlignment": "0",
+        "TextYAlignment": "1",
+        "UniqueId": "451126a27e5c9c2c081e92340000f724",
+        "Visible": "true",
+        "ZIndex": "1"
+    }
+}

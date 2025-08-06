@@ -1,0 +1,35 @@
+{
+    "class": "MaterialVariant",
+    "referent": "RBXD2AF0C95F75C4A96AEF416F69FCAAC98",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseMaterial": "256",
+        "Capabilities": "0",
+        "ColorMap": {
+            "url": "rbxassetid://132709865760953"
+        },
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaterialPattern": "0",
+        "MetalnessMap": {
+            "url": "rbxassetid://126937735421534"
+        },
+        "Name": "GoldStudTexture",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "url": "rbxassetid://136550402130268"
+        },
+        "SourceAssetId": "-1",
+        "StudsPerTile": "4",
+        "Tags": {},
+        "TexturePack": {
+            "url": "rbxassetid://109422799625912"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000e030"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "class": "MarkerCurve",
+    "referent": "RBX4110AF81248142E9A500A6E8C54DE15C",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "NamedKeyframeEvent",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "0f854540ac8c71310830c6da00005fe0",
+        "ValuesAndTimes": "AgAAAAAAAAABAAAAAAAAAA=="
+    }
+}

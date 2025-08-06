@@ -1,0 +1,14 @@
+{
+    "class": "AssetService",
+    "referent": "RBX48547E6AA72247C49C292ED9D3D09BBA",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "AssetService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400000354"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "class": "KeyframeSequence",
+    "referent": "RBXAFC52E3FFF924B158497CC051B1C4ADA",
+    "properties": {
+        "AttributesSerialize": {},
+        "AuthoredHipHeight": "2",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "GuidBinaryString": "AAAAAAAAAAAAAAAAAAAAAA==",
+        "HistoryId": "00000000000000000000000000000000",
+        "Loop": "true",
+        "Name": "Sam_Idle",
+        "Priority": "2",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d722"
+    }
+}

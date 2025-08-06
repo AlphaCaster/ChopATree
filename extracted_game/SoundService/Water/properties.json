@@ -1,0 +1,31 @@
+{
+    "class": "Sound",
+    "referent": "RBX86391226F7D449B287D746EEF285CCC8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "IsMutedForCapture": "false",
+        "LoopRegion": "0 60000 ",
+        "Looped": "false",
+        "Name": "Water",
+        "PlayOnRemove": "false",
+        "PlaybackRegion": "0 60000 ",
+        "PlaybackRegionsEnabled": "false",
+        "PlaybackSpeed": "1",
+        "Playing": "false",
+        "RollOffMaxDistance": "10000",
+        "RollOffMinDistance": "10",
+        "RollOffMode": "0",
+        "SoundGroup": "null",
+        "SoundId": {
+            "url": "rbxassetid://9066038593"
+        },
+        "SourceAssetId": "9066038593",
+        "Tags": {},
+        "TimePosition": "0",
+        "UniqueId": "4113b0548e65edf00837330c000096d4",
+        "Volume": "0.200000003"
+    }
+}

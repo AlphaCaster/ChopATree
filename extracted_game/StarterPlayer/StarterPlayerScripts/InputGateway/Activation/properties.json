@@ -1,0 +1,14 @@
+{
+    "class": "RemoteEvent",
+    "referent": "RBXEF4403DF78A143CCA05C8A30E59ED992",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Activation",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f83a"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "class": "Decal",
+    "referent": "RBXAB7A65C8516E4D638C917C7D83982365",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color3": {
+            "R": "0.490196079",
+            "G": "0.490196079",
+            "B": "0.490196079"
+        },
+        "DefinesCapabilities": "false",
+        "Face": "5",
+        "HistoryId": "00000000000000000000000000000000",
+        "MetalnessMap": {
+            "null": {}
+        },
+        "Name": "Decal",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Texture": {
+            "null": {}
+        },
+        "Transparency": "1",
+        "UVOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "UVScale": {
+            "X": "1",
+            "Y": "1"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000f16b",
+        "ZIndex": "1"
+    }
+}

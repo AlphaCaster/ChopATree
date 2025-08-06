@@ -1,0 +1,19 @@
+{
+    "class": "ModuleScript",
+    "referent": "RBX075963239D574F77BA0566BACAEB8E73",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "packet",
+        "ScriptGuid": "{31F18280-ADF0-443D-B884-F19E43907C81}",
+        "Source": "��b��)�)�����ƥ>V�z�",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "545643347957b596082a909f00014bc6"
+    }
+}

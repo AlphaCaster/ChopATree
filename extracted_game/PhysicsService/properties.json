@@ -1,0 +1,14 @@
+{
+    "class": "PhysicsService",
+    "referent": "RBXE8FB1FBDD48041A49D6DEABF4DE230AB",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "PhysicsService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00000354"
+    }
+}

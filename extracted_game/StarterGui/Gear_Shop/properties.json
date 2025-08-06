@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBXB9B875C4A16E4CD5A26409D7BDECDDEA",
+    "properties": {
+        "AttributesSerialize": "AQAAAAQAAABicnVoAwA=",
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "0",
+        "Enabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Gear_Shop",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "2",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400017c8e",
+        "ZIndexBehavior": "1"
+    }
+}

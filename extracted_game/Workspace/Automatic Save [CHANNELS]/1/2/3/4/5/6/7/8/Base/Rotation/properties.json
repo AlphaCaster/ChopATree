@@ -1,0 +1,15 @@
+{
+    "class": "EulerRotationCurve",
+    "referent": "RBX099E710F06494007A56B9CE498F27532",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Rotation",
+        "RotationOrder": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "0f854540ac8c71310830c6da00005fca"
+    }
+}

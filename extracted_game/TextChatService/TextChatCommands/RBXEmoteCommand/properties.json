@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBXDF10C9E374FE4A18BC1DEFD569DEF205",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RBXEmoteCommand",
+        "PrimaryAlias": "/emote",
+        "SecondaryAlias": "/e",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f886"
+    }
+}

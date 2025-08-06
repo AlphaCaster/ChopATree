@@ -1,0 +1,14 @@
+{
+    "class": "GamePassService",
+    "referent": "RBXEBFE69AC68B34415817C1E01103FF367",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "GamePassService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00000358"
+    }
+}

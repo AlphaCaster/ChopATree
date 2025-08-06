@@ -1,0 +1,42 @@
+{
+    "class": "Model",
+    "referent": "RBXF1531DC21DC646CE99BFA18BD839A9F7",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LevelOfDetail": "0",
+        "ModelMeshCFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "ModelMeshData": "yuZpQdnvvUBOTYh1jqZ2cA==",
+        "ModelMeshSize": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "ModelStreamingMode": "0",
+        "Name": "Model",
+        "NeedsPivotMigration": "false",
+        "PrimaryPart": "null",
+        "ScaleFactor": "1",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000eaa5",
+        "WorldPivotData": {
+            "CFrame": "\n\t\t\t\t\t\t\t\t\t"
+        }
+    }
+}

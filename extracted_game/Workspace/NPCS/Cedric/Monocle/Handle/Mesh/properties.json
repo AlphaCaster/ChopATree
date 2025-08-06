@@ -1,0 +1,36 @@
+{
+    "class": "SpecialMesh",
+    "referent": "RBXDD1DEE0D441F4D22A552A5D751167EB2",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MeshId": {
+            "url": "http://www.roblox.com/asset/?id=29809807"
+        },
+        "MeshType": "5",
+        "Name": "Mesh",
+        "Offset": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        },
+        "Scale": {
+            "X": "1",
+            "Y": "1",
+            "Z": "1"
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TextureId": {
+            "url": "http://www.roblox.com/asset/?id=29809816"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000d71e",
+        "VertexColor": {
+            "X": "1",
+            "Y": "1",
+            "Z": "1"
+        }
+    }
+}

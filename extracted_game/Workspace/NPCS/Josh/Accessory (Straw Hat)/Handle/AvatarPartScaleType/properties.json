@@ -1,0 +1,15 @@
+{
+    "class": "StringValue",
+    "referent": "RBXCD9F20C0D53540639B4B229085BA7E9D",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "AvatarPartScaleType",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000d7e9",
+        "Value": "Classic"
+    }
+}

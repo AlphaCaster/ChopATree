@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBX0196403532524F6494851BC0A04B288C",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutoLocalize": "false",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "1000",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Cmdr",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "2",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f791",
+        "ZIndexBehavior": "0"
+    }
+}

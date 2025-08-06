@@ -1,0 +1,29 @@
+{
+    "class": "Attachment",
+    "referent": "RBX811C6224E10A48C2BDAAE2F46156B753",
+    "properties": {
+        "AttributesSerialize": {},
+        "CFrame": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0",
+            "R00": "1",
+            "R01": "0",
+            "R02": "0",
+            "R10": "0",
+            "R11": "1",
+            "R12": "0",
+            "R20": "0",
+            "R21": "0",
+            "R22": "1"
+        },
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Attachment",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000e985",
+        "Visible": "false"
+    }
+}

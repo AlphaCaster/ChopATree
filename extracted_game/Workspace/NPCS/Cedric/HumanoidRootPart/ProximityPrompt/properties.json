@@ -1,0 +1,31 @@
+{
+    "class": "ProximityPrompt",
+    "referent": "RBXDF0037873A4A4D8E9FC7876233054083",
+    "properties": {
+        "ActionText": "Talk",
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClickablePrompt": "true",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "Exclusivity": "0",
+        "GamepadKeyCode": "1000",
+        "HistoryId": "00000000000000000000000000000000",
+        "HoldDuration": "0",
+        "KeyboardKeyCode": "101",
+        "MaxActivationDistance": "10",
+        "Name": "ProximityPrompt",
+        "ObjectText": "Steven",
+        "RequiresLineOfSight": "false",
+        "RootLocalizationTable": "null",
+        "SourceAssetId": "-1",
+        "Style": "1",
+        "Tags": {},
+        "UIOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000d7b2"
+    }
+}

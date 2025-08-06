@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBX3FAE2900BF2A4F59B93126CD8E7783C5",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "0",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Friend_Notification",
+        "ResetOnSpawn": "true",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "2",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f760",
+        "ZIndexBehavior": "1"
+    }
+}

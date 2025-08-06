@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBX2D19CDEA664A4836BB0F59E6CE47F95E",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "mutateplant",
+        "PrimaryAlias": "/mutateplant",
+        "SecondaryAlias": "/mutateplant",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f87c"
+    }
+}

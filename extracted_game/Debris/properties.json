@@ -1,0 +1,15 @@
+{
+    "class": "Debris",
+    "referent": "RBXD89BDF582C124D84926AB22FDA940B8F",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaxItems": "1000",
+        "Name": "Debris",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec00000359"
+    }
+}

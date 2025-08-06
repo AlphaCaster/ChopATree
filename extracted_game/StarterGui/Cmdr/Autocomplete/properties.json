@@ -1,0 +1,100 @@
+{
+    "class": "ScrollingFrame",
+    "referent": "RBX1D896583CF0A4857BFBE379B8A616E8B",
+    "properties": {
+        "Active": "false",
+        "AnchorPoint": {
+            "X": "0",
+            "Y": "0"
+        },
+        "AttributesSerialize": {},
+        "AutoLocalize": "true",
+        "AutomaticCanvasSize": "2",
+        "AutomaticSize": "0",
+        "BackgroundColor3": {
+            "R": "0.23137255",
+            "G": "0.23137255",
+            "B": "0.23137255"
+        },
+        "BackgroundTransparency": "0.5",
+        "BorderColor3": {
+            "R": "0.105882354",
+            "G": "0.164705887",
+            "B": "0.20784314"
+        },
+        "BorderMode": "0",
+        "BorderSizePixel": "0",
+        "BottomImage": {
+            "url": "rbxasset://textures/ui/Scroll/scroll-bottom.png"
+        },
+        "CanvasPosition": {
+            "X": "0",
+            "Y": "0"
+        },
+        "CanvasSize": {
+            "XS": "0",
+            "XO": "0",
+            "YS": "0",
+            "YO": "0"
+        },
+        "Capabilities": "0",
+        "ClipsDescendants": "true",
+        "DefinesCapabilities": "false",
+        "Draggable": "false",
+        "ElasticBehavior": "0",
+        "HistoryId": "00000000000000000000000000000000",
+        "HorizontalScrollBarInset": "0",
+        "Interactable": "true",
+        "LayoutOrder": "0",
+        "MidImage": {
+            "url": "rbxasset://textures/ui/Scroll/scroll-middle.png"
+        },
+        "Name": "Autocomplete",
+        "NextSelectionDown": "null",
+        "NextSelectionLeft": "null",
+        "NextSelectionRight": "null",
+        "NextSelectionUp": "null",
+        "Position": {
+            "XS": "0",
+            "XO": "167",
+            "YS": "0",
+            "YO": "75"
+        },
+        "RootLocalizationTable": "null",
+        "Rotation": "0",
+        "ScrollBarImageColor3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "ScrollBarImageTransparency": "0",
+        "ScrollBarThickness": "6",
+        "ScrollingDirection": "2",
+        "ScrollingEnabled": "true",
+        "Selectable": "false",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "true",
+        "SelectionImageObject": "null",
+        "SelectionOrder": "0",
+        "Size": {
+            "XS": "0",
+            "XO": "200",
+            "YS": "0",
+            "YO": "200"
+        },
+        "SizeConstraint": "0",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "TopImage": {
+            "url": "rbxasset://textures/ui/Scroll/scroll-top.png"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000f79a",
+        "VerticalScrollBarInset": "0",
+        "VerticalScrollBarPosition": "0",
+        "Visible": "false",
+        "ZIndex": "1"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "class": "Script",
+    "referent": "RBX62C47BB007B8438DA22173931728F9F5",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "Loader",
+        "RunContext": "1",
+        "ScriptGuid": "{70316907-F671-4367-A9FF-5725A327B720}",
+        "Source": "��\u001a��+z�+��Oj���Z\u001cjYhi׫r��=�ޞ�hq�fj)̡ۥz���*�r��Y��\u0016�)]1��2�n�隊s(v�^�x���b��hi׫",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "5518fd0d4237929a0861d9f900007da8"
+    }
+}

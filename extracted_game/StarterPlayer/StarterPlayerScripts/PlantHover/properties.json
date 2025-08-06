@@ -1,0 +1,21 @@
+{
+    "class": "LocalScript",
+    "referent": "RBXBE9E91103FB84C4CB888189B5393F24F",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Disabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "LinkedSource": {
+            "null": {}
+        },
+        "Name": "PlantHover",
+        "RunContext": "0",
+        "ScriptGuid": "{834FE7BB-5EA4-4813-916B-0C0185E510B7}",
+        "Source": "��\u001a�\u001b�I���",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f7f5"
+    }
+}

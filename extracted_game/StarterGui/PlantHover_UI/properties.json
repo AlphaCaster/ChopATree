@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBX0D71BF44171348138EE7769E00526BFE",
+    "properties": {
+        "AttributesSerialize": "AQAAAAQAAABicnVoAwE=",
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "0",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "PlantHover_UI",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "1",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400016c14",
+        "ZIndexBehavior": "1"
+    }
+}

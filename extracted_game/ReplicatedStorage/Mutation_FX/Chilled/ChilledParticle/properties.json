@@ -1,0 +1,56 @@
+{
+    "class": "ParticleEmitter",
+    "referent": "RBX362E7730D397470BA5EB0BC52BF7B53B",
+    "properties": {
+        "Acceleration": {
+            "X": "0",
+            "Y": "-20",
+            "Z": "0"
+        },
+        "AttributesSerialize": "AwAAAAkAAABFbWl0Q291bnQGAAAAAAAAOUAJAAAARW1pdERlbGF5BgAAAAAAAAAADAAAAEVt\naXREdXJhdGlvbgYAAAAAAAAAAA==",
+        "Brightness": "1",
+        "Capabilities": "0",
+        "Color": "0 1 1 1 0 1 0.333333 1 1 0 ",
+        "DefinesCapabilities": "false",
+        "Drag": "10",
+        "EmissionDirection": "1",
+        "Enabled": "true",
+        "FlipbookFramerate": "1 1 ",
+        "FlipbookIncompatible": "Particle texture must be 1024 by 1024 to use flipbooks.",
+        "FlipbookLayout": "0",
+        "FlipbookMode": "0",
+        "FlipbookStartRandom": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Lifetime": "2 2 ",
+        "LightEmission": "0",
+        "LightInfluence": "0",
+        "LockedToPart": "false",
+        "Name": "ChilledParticle",
+        "Orientation": "2",
+        "Rate": "3",
+        "RotSpeed": "-90 90 ",
+        "Rotation": "90 90 ",
+        "Shape": "0",
+        "ShapeInOut": "0",
+        "ShapePartial": "1",
+        "ShapeStyle": "0",
+        "Size": "0 0 0 0.498753 2.5 0.219082 1 0 0 ",
+        "SourceAssetId": "-1",
+        "Speed": "10 15 ",
+        "SpreadAngle": {
+            "X": "90",
+            "Y": "90"
+        },
+        "Squash": "0 0 0 1 0 0 ",
+        "Tags": {},
+        "Texture": {
+            "url": "rbxassetid://137863300043989"
+        },
+        "TimeScale": "1",
+        "Transparency": "0 0.5 0 1 0.5 0 ",
+        "UniqueId": "451126a27e5c9c2c081e92340000e80c",
+        "VelocityInheritance": "0",
+        "WindAffectsDrag": "false",
+        "ZOffset": "0"
+    }
+}

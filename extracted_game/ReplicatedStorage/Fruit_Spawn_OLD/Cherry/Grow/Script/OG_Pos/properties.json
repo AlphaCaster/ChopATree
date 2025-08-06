@@ -1,0 +1,19 @@
+{
+    "class": "Vector3Value",
+    "referent": "RBXED0A63BFD11749C0B3C3B2FF13B1BE33",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "OG_Pos",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000eb4d",
+        "Value": {
+            "X": "0",
+            "Y": "0",
+            "Z": "0"
+        }
+    }
+}

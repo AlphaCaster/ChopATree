@@ -1,0 +1,14 @@
+{
+    "class": "TweenService",
+    "referent": "RBX20F32B9E332946FF8E94D93653834C6A",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "TweenService",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "7e4a3bcd3f271401088bd8ec0000033d"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "class": "Decal",
+    "referent": "RBXF609E233A1A44781BF1A3D2F7414A71F",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "Color3": {
+            "R": "1",
+            "G": "1",
+            "B": "1"
+        },
+        "DefinesCapabilities": "false",
+        "Face": "5",
+        "HistoryId": "00000000000000000000000000000000",
+        "MetalnessMap": {
+            "null": {}
+        },
+        "Name": "face",
+        "NormalMap": {
+            "null": {}
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "Texture": {
+            "url": "http://www.roblox.com/asset/?id=287062870"
+        },
+        "Transparency": "0",
+        "UVOffset": {
+            "X": "0",
+            "Y": "0"
+        },
+        "UVScale": {
+            "X": "1",
+            "Y": "1"
+        },
+        "UniqueId": "24e0a64387d9a9220836390200005fa9",
+        "ZIndex": "1"
+    }
+}

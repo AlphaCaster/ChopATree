@@ -1,0 +1,18 @@
+{
+    "class": "TextChatCommand",
+    "referent": "RBXDFE6914EAC9A466DB014E0E5A0F662ED",
+    "properties": {
+        "AttributesSerialize": {},
+        "AutocompleteVisible": "true",
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "Enabled": "true",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "RBXClearCommand",
+        "PrimaryAlias": "/clear",
+        "SecondaryAlias": "/cls",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e92340000f889"
+    }
+}

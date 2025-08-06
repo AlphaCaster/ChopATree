@@ -1,0 +1,28 @@
+{
+    "class": "ScreenGui",
+    "referent": "RBXEC4CAB02E86C4E1A9D73E38BCF3154F3",
+    "properties": {
+        "AttributesSerialize": "AQAAAAQAAABicnVoAwA=",
+        "AutoLocalize": "true",
+        "Capabilities": "0",
+        "ClipToDeviceSafeArea": "true",
+        "DefinesCapabilities": "false",
+        "DisplayOrder": "0",
+        "Enabled": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "FreeSeedSack_UI",
+        "ResetOnSpawn": "false",
+        "RootLocalizationTable": "null",
+        "SafeAreaCompatibility": "1",
+        "ScreenInsets": "1",
+        "SelectionBehaviorDown": "0",
+        "SelectionBehaviorLeft": "0",
+        "SelectionBehaviorRight": "0",
+        "SelectionBehaviorUp": "0",
+        "SelectionGroup": "false",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400017e5d",
+        "ZIndexBehavior": "1"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "class": "MaterialVariant",
+    "referent": "RBXF67289AAB935455B899F6307016424AB",
+    "properties": {
+        "AttributesSerialize": {},
+        "BaseMaterial": "256",
+        "Capabilities": "0",
+        "ColorMap": {
+            "url": "rbxassetid://17041454952"
+        },
+        "CustomPhysicalProperties": {
+            "CustomPhysics": "false"
+        },
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "MaterialPattern": "0",
+        "MetalnessMap": {
+            "null": {}
+        },
+        "Name": "Studs 2x2 Plastic",
+        "NormalMap": {
+            "url": "rbxassetid://17041450908"
+        },
+        "RoughnessMap": {
+            "null": {}
+        },
+        "SourceAssetId": "-1",
+        "StudsPerTile": "2",
+        "Tags": {},
+        "TexturePack": {
+            "url": "rbxassetid://17041455150"
+        },
+        "UniqueId": "451126a27e5c9c2c081e92340000e02f"
+    }
+}

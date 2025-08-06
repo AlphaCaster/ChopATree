@@ -1,0 +1,14 @@
+{
+    "class": "TeleportService",
+    "referent": "RBX18C1F9799D384BE7BEF1E07104888AA8",
+    "properties": {
+        "AttributesSerialize": {},
+        "Capabilities": "0",
+        "DefinesCapabilities": "false",
+        "HistoryId": "00000000000000000000000000000000",
+        "Name": "Teleport Service",
+        "SourceAssetId": "-1",
+        "Tags": {},
+        "UniqueId": "451126a27e5c9c2c081e923400000342"
+    }
+}
